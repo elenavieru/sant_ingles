@@ -308,10 +308,9 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     position: fixed;
     top: 44px;
     width: 100%;
-    height: 82px;
     left: 0;
     z-index: 100;
-    background-color: #3aaa35;
+    background-color: #009037;
 }
 
 body.is_app .santillana_ingles-navbar {
@@ -423,11 +422,12 @@ body.is_app .santillana_ingles-navbar.ocultar {
     border-bottom-right-radius: 0;
 }
 
+/*marcador 'volver indice'*/
 .content_type_clase_santillana_ingles .santillana_ingles-navbar .navbar-content h2 a {
     font-size: 1.6rem;
     font-weight: 600;
     margin-left: 10px;
-    display: inline-block;
+    display: none;
     color: #ffffff;
     background-color: #33a32e;
     border-radius: 10px;
@@ -479,7 +479,6 @@ body.is_app .santillana_ingles-navbar.ocultar {
     float: left;
     margin: 33px 0px;
     padding-left: 5px;
-    border-left: 1px dotted #fff;
     margin-left: 10px;
 }
 
@@ -1873,10 +1872,10 @@ strong {
     padding: 20px 40px 20px 20px;
 }
 
-/*caja 4 Activaverde flotante*/
+/*caja 4 Activaverde flotante = caja inicio bordeNaranja*/
 
 .bck-box.bck-box-4 .bck-title {
-    color: #ee7f00;
+    color: #fff;
     font-weight: 700;
     text-align: left;
     padding: 10px 30px 5px 40px;
