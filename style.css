@@ -1,4 +1,4 @@
-santillana_chile-css
+
 
 /*General CSS SANTILLANA CHILE*/
 
@@ -63,13 +63,13 @@ body {
     display: none;
 }
 
-.content_type_clase_santi_ingles #actividad {
+.content_type_clase_santillana_ingles #actividad {
     margin-bottom: 0px;
     -webkit-transform: none;
     -webkit-transform-style: flat;
 }
 
-.content_type_clase_santi_ingles .slide-wrapper {
+.content_type_clase_santillana_ingles .slide-wrapper {
     text-align: justify;
 }
 
@@ -114,16 +114,16 @@ a:hover, a:active, a:focus {
     letter-spacing: 1px;
 }
 
-.content_type_clase_santi_ingles #actividad .content .header .title img,
-.content_type_clase_santi_ingles #actividad .content .header .chapter {
+.content_type_clase_santillana_ingles #actividad .content .header .title img,
+.content_type_clase_santillana_ingles #actividad .content .header .chapter {
     display: none;
 }
 
-.content_type_clase_santi_ingles #actividad .content .header {
+.content_type_clase_santillana_ingles #actividad .content .header {
     border: none;
 }
 
-.content_type_clase_santi_ingles #actividad .content .header .title h3 {
+.content_type_clase_santillana_ingles #actividad .content .header .title h3 {
     display: none;
 }
 
@@ -132,7 +132,7 @@ input, button, select, textarea {
     padding-bottom: 0px;
 }
 
-.santi_ingles-navbar h3 {
+.santillana_ingles-navbar h3 {
     width: 75%;
     margin: auto;
     margin-bottom: 15px;
@@ -142,17 +142,17 @@ input, button, select, textarea {
 
 /**/
 
-.content_type_clase_santi_ingles #actividad .texto_curso {
+.content_type_clase_santillana_ingles #actividad .texto_curso {
     font-size: 1.8rem;
 }
 
-.content_type_clase_santi_ingles #actividad .texto_curso li,
-.content_type_clase_santi_ingles #actividad .workspace ul li li {
+.content_type_clase_santillana_ingles #actividad .texto_curso li,
+.content_type_clase_santillana_ingles #actividad .workspace ul li li {
     margin-bottom: 15px;
 }
 
-.content_type_clase_santi_ingles #actividad .texto_curso li:last-of-type,
-.content_type_clase_santi_ingles #actividad .workspace ul li li:last-of-type {
+.content_type_clase_santillana_ingles #actividad .texto_curso li:last-of-type,
+.content_type_clase_santillana_ingles #actividad .workspace ul li li:last-of-type {
     margin-bottom: 0px;
 }
 
@@ -191,7 +191,7 @@ body.is_app #actividad .class_slide {
     min-height: 0px;
 }
 
-.content_type_clase_santi_ingles .slide_main input {
+.content_type_clase_santillana_ingles .slide_main input {
     color: #555;
     background-color: #fff;
     background-image: none;
@@ -203,33 +203,33 @@ body.is_app #actividad .class_slide {
     transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
 }
 
-.content_type_clase_santi_ingles .slide_main input:focus,
-.content_type_clase_santi_ingles .slide_main .form-control:focus {
+.content_type_clase_santillana_ingles .slide_main input:focus,
+.content_type_clase_santillana_ingles .slide_main .form-control:focus {
     border-color: #9664AB;
     outline-width: 0px;
     outline-style: none;
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 8px rgba(133, 200, 57, 0.6);
 }
 
-.content_type_clase_santi_ingles .slide_main input[disabled],
-.content_type_clase_santi_ingles .slide_main input[readonly],
-fieldset[disabled] .content_type_clase_santi_ingles .slide_main input {
+.content_type_clase_santillana_ingles .slide_main input[disabled],
+.content_type_clase_santillana_ingles .slide_main input[readonly],
+fieldset[disabled] .content_type_clase_santillana_ingles .slide_main input {
     cursor: not-allowed;
     background-color: #eee;
     opacity: 1;
 }
 
-.content_type_clase_santi_ingles .slide_main input.respuesta_ok {
+.content_type_clase_santillana_ingles .slide_main input.respuesta_ok {
     border-color: #57e900;
     background: #D1F3BD;
 }
 
-.content_type_clase_santi_ingles .slide_main input.respuesta_ko {
+.content_type_clase_santillana_ingles .slide_main input.respuesta_ko {
     border-color: #FF3626;
     background: #FFA49D;
 }
 
-.content_type_clase_santi_ingles .slide_main input.solucion {
+.content_type_clase_santillana_ingles .slide_main input.solucion {
     border-color: #00BDFF;
     background: #B6ECFF;
 }
@@ -306,7 +306,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     background: linear-gradient(to left, #7aac39, transparent);
 }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar {
     position: fixed;
     top: 44px;
     width: 100%;
@@ -316,17 +316,17 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     background-color: #3aaa35;
 }
 
-body.is_app .santi_ingles-navbar {
+body.is_app .santillana_ingles-navbar {
     top: 0;
     transition: top 0.5s linear;
 }
 
-body.is_app .santi_ingles-navbar.ocultar {
+body.is_app .santillana_ingles-navbar.ocultar {
     top: -136px;
 }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar .dropdown button,
-.content_type_clase_santi_ingles .santi_ingles-navbar li {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar .dropdown button,
+.content_type_clase_santillana_ingles .santillana_ingles-navbar li {
     border-radius: 5px;
     border: none;
     background-color: transparent;
@@ -340,30 +340,30 @@ body.is_app .santi_ingles-navbar.ocultar {
     cursor: pointer;
 }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar li {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar li {
     font-size: 1.5rem;
 }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar .dropdown button {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar .dropdown button {
     font-weight: 600;
    }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar .dropdown button:focus {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar .dropdown button:focus {
     outline: none;
 }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar .dropdown .caret {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar .dropdown .caret {
     border-color: #ffffff transparent transparent transparent;
     margin-left: 10px;
 }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar .navbar-content {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar .navbar-content {
     max-width: 1160px;
     margin: 0 20px;
     border-bottom: 0px solid #9665AB;
 }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar .dropdownTemas {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar .dropdownTemas {
     position: relative;
     /*background-color: #3aaa35;*/
     padding-left: 6%;
@@ -371,26 +371,26 @@ body.is_app .santi_ingles-navbar.ocultar {
     float: left;
 }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar .dropdownTemas:focus,
-.content_type_clase_santi_ingles .santi_ingles-navbar .dropdownTemas button:focus {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar .dropdownTemas:focus,
+.content_type_clase_santillana_ingles .santillana_ingles-navbar .dropdownTemas button:focus {
     outline: none;
 }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar .dropdownTemas button {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar .dropdownTemas button {
     background-color: transparent;
     border: none;
 }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar .dropdownTemas .caret{
+.content_type_clase_santillana_ingles .santillana_ingles-navbar .dropdownTemas .caret{
     border-color: #ffffff transparent transparent transparent;
     margin-left: 10px;
 }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar .dropdownTemas .dropdown-menu {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar .dropdownTemas .dropdown-menu {
     left: 50px;
 }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar .navbar-content h2 {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar .navbar-content h2 {
     color: #fff;
     font-weight: 600;
     font-size: 2.5rem;
@@ -404,11 +404,11 @@ body.is_app .santi_ingles-navbar.ocultar {
     display: table-cell;
 }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar .navbar-content h2 #nombre-tema-wrapper {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar .navbar-content h2 #nombre-tema-wrapper {
     line-height: 2.5rem;
 }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar .navbar-content h2 #courseIndex {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar .navbar-content h2 #courseIndex {
     background-color: orange;
     font-size: 4rem;
     color: white;
@@ -425,7 +425,7 @@ body.is_app .santi_ingles-navbar.ocultar {
     border-bottom-right-radius: 0;
 }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar .navbar-content h2 a {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar .navbar-content h2 a {
     font-size: 1.6rem;
     font-weight: 600;
     margin-left: 10px;
@@ -437,7 +437,7 @@ body.is_app .santi_ingles-navbar.ocultar {
     padding: 1px 6px 1px 6px;
 }
 
-.content_type_clase_santi_ingles .slider-indicators {
+.content_type_clase_santillana_ingles .slider-indicators {
     padding: 10px 0px;
     display: inline-block;
     text-align: left;
@@ -448,13 +448,13 @@ body.is_app .santi_ingles-navbar.ocultar {
     z-index: 0;
 }
 
-.content_type_clase_santi_ingles .slider-indicators li:first-child span,
-.content_type_clase_santi_ingles .dropdown li:first-child span.num {
+.content_type_clase_santillana_ingles .slider-indicators li:first-child span,
+.content_type_clase_santillana_ingles .dropdown li:first-child span.num {
     font-family: "Palatino Linotype", Times;
 }
 
-.content_type_clase_santi_ingles .first-is-section .slider-indicators li:first-child span,
-.content_type_clase_santi_ingles .first-is-section .dropdown li:first-child span.num {
+.content_type_clase_santillana_ingles .first-is-section .slider-indicators li:first-child span,
+.content_type_clase_santillana_ingles .first-is-section .dropdown li:first-child span.num {
     font-family: 'FontAwesome' !important;
 }
 
@@ -464,19 +464,19 @@ body.is_app .santi_ingles-navbar.ocultar {
     float: left;
 }
 
-.content_type_clase_santi_ingles .slider-indicators li {
+.content_type_clase_santillana_ingles .slider-indicators li {
     width: 35px;
     height: 35px;
     margin: 0px 5px;
     text-align: center;
 }
 
-.content_type_clase_santi_ingles .slider-indicators li.active,
-.content_type_clase_santi_ingles .santi_ingles-navbar li:hover {
+.content_type_clase_santillana_ingles .slider-indicators li.active,
+.content_type_clase_santillana_ingles .santillana_ingles-navbar li:hover {
     background-color: #D9D2F1;
 }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar .dropdown {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar .dropdown {
     display: inline-block;
     float: left;
     margin: 33px 0px;
@@ -517,12 +517,12 @@ body.is_app .santi_ingles-navbar.ocultar {
     white-space: nowrap;
 }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar .dropdown li {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar .dropdown li {
     display: list-item;
     width: auto;
 }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar .dropdown li a {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar .dropdown li a {
     color: #777;
     font-size: 1.5rem;
     overflow: auto;
@@ -2705,47 +2705,47 @@ td {
     border-top-right-radius: 20px;
 }
 
-.santi_ingles-dropdown .bck-dropdown-icon, .santi_ingles-dropdown-2 .bck-dropdown-icon {
+.santillana_ingles-dropdown .bck-dropdown-icon, .santillana_ingles-dropdown-2 .bck-dropdown-icon {
     color: white;
 }
 
-.santi_ingles-dropdown .bck-dropdown-icon > .fa, .santi_ingles-dropdown-2 .bck-dropdown-icon > .fa {
+.santillana_ingles-dropdown .bck-dropdown-icon > .fa, .santillana_ingles-dropdown-2 .bck-dropdown-icon > .fa {
     border: 3px solid white;
 }
 
-.santi_ingles-dropdown .bck-dropdown-titulo, .santi_ingles-dropdown-2 .bck-dropdown-titulo{
+.santillana_ingles-dropdown .bck-dropdown-titulo, .santillana_ingles-dropdown-2 .bck-dropdown-titulo{
     color: white;
 }
 
 /*Desplegable 1*/
-.bck-dropdown.santi_ingles-dropdown {
+.bck-dropdown.santillana_ingles-dropdown {
     background-color: #FBA81C;
 }
 
-.santi_ingles-dropdown .bck-dropdown-icon {
+.santillana_ingles-dropdown .bck-dropdown-icon {
     background-color: #FBA81C;
 }
 
-.santi_ingles-dropdown .bck-dropdown-content {
+.santillana_ingles-dropdown .bck-dropdown-content {
     background-color: #F2E7D1;
 }
 
 /**/
 
 /*Desplegable 2*/
-.bck-dropdown.santi_ingles-dropdown-2 {
+.bck-dropdown.santillana_ingles-dropdown-2 {
     background-color: #3aaa35;
 }
 
-.santi_ingles-dropdown-2 .bck-dropdown-icon {
+.santillana_ingles-dropdown-2 .bck-dropdown-icon {
     background-color: #3aaa35;
 }
 
-.santi_ingles-dropdown-2 .bck-dropdown-content {
+.santillana_ingles-dropdown-2 .bck-dropdown-content {
     background-color: #ffffff;
 }
 
-.edit .santi_ingles-dropdown-2 .bck-dropdown-content {
+.edit .santillana_ingles-dropdown-2 .bck-dropdown-content {
     color: white;
 }
 /**/
@@ -2805,7 +2805,7 @@ td {
         bottom:0 ;
     }
 
-    .content_type_clase_santi_ingles .santi_ingles-navbar .dropdown {
+    .content_type_clase_santillana_ingles .santillana_ingles-navbar .dropdown {
     display: none!important;
    }
 }
@@ -2874,7 +2874,7 @@ td {
     padding: 20px 20px 20px 20px;
 }
 
-.content_type_clase_santi_ingles .santi_ingles-navbar .dropdown {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar .dropdown {
     display: none;
 }
 
@@ -2933,7 +2933,7 @@ td {
 }
 
  
-.content_type_clase_santi_ingles .santi_ingles-navbar {
+.content_type_clase_santillana_ingles .santillana_ingles-navbar {
     display: none;
 }
 
@@ -2957,7 +2957,7 @@ td {
    top: 105%;
 }
 
-.content_type_clase_santi_ingles #actividad .texto_curso li, .content_type_clase_santi_ingles #actividad .workspace ul li li,
+.content_type_clase_santillana_ingles #actividad .texto_curso li, .content_type_clase_santillana_ingles #actividad .workspace ul li li,
 #actividad .content .cke_contents .bck-ol-2 li, #actividad .content .texto_curso .bck-ol-2 li, #actividad .popover-content .bck-ol-2 li, #actividad .content .workspace ol li .bck-ol-2 li, #actividad .content .texto_curso .bck-ol-3 li, #actividad .content .cke_contents .bck-ol-3 li, #actividad .popover-content .bck-ol-3 li, #actividad .content .workspace ol li .bck-ol-3 li, #actividad .content .cke_contents .bck-ol-4 li, #actividad .content .texto_curso .bck-ol-4 li, #actividad .popover-content .bck-ol-4 li, #actividad .content .workspace ol li .bck-ol-4 li, #actividad .content .cke_contents .bck-ol-5 li, #actividad .content .texto_curso .bck-ol-5 li, #actividad .popover-content .bck-ol-5 li, #actividad .content .workspace ol li .bck-ol-5 li, #actividad .content .cke_contents .bck-ol-6 li, #actividad .content .texto_curso .bck-ol-6 li, #actividad .popover-content .bck-ol-6 li, #actividad .content .workspace ol li .bck-ol-6 li, #actividad .content .cke_contents .bck-ol-7 li, #actividad .content .texto_curso .bck-ol-7 li, #actividad .popover-content .bck-ol-7 li, #actividad .content .workspace ol li .bck-ol-7 li, #actividad .content .cke_contents .bck-ol-8 li, #actividad .content .texto_curso .bck-ol-8 li, #actividad .popover-content .bck-ol-8 li, #actividad .content .workspace ol li .bck-ol-8 li {
     font-size: 14px;
 }
@@ -2991,4 +2991,3 @@ font-size: 20px;
 
 
 }
-
