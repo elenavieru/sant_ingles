@@ -1,4 +1,4 @@
-
+/*david-css*/
 
 /*General CSS SANTILLANA CHILE*/
 
@@ -1886,6 +1886,7 @@ strong {
     border-radius: 20px 0px 0px 0px;
     width: fit-content;
     letter-spacing: 1px;
+
 }
 
 .bck-box.bck-box-4 .bck-title p{
@@ -1907,16 +1908,19 @@ strong {
     left: 9px;
     text-align: center;
 }
-.bck-box.bck-box-4 {
-    position: absolute;
-    top: 3%;
-    left: 40px;
+/*caja inicio bordeNaranja*/
+.bck-box.bck-box-4 {
+position: absolute;
+top: 3%;
+left: 40px;
+border: solid 2px #ee7f00;
+border-radius: 30px;
+background-color: #ffffff;
 }
 
 .bck-box.bck-box-4 .bck-content {
-    background-color: #f6e7bf;
     border-radius: 0px 50px 0px 50px;
-    padding: 20px 40px 20px 20px;
+    padding: 25px;
 }
 
 /*caja 5 Activaazul*/
