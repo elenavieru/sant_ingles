@@ -1,18 +1,15 @@
-# sant_ingles
-santillana_chile-js
-
 (function (blink) {
 	'use strict';
 
-	var santi_inglesStyle = function () {
+	var santillana_inglesStyle = function () {
 			blink.theme.styles.basic.apply(this, arguments);
 		},
 		page = blink.currentPage;
 
-	santi_inglesStyle.prototype = {
-		bodyClassName: 'content_type_clase_santi_ingles',
+	santillana_inglesStyle.prototype = {
+		bodyClassName: 'content_type_clase_santillana_ingles',
 		ckEditorStyles: {
-			name: 'santi_ingles',
+			name: 'santillana_ingles',
 			styles: [
 				
 				{ name: 'Flecha verde', element: 'h3', attributes: { 'class': 'bck-title4'} },
@@ -122,8 +119,8 @@ santillana_chile-js
 				{ name: 'Celda azul-claro', element: 'td', attributes: { 'class': 'bck-td-3' } },
 				{ name: 'Celd borde abajo', element: 'td', attributes: { 'class': 'bck-td-4' } },
 
-				{ name: 'Desplegable', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santi_ingles-dropdown' } },
-				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santi_ingles-dropdown-2' } },
+				{ name: 'Desplegable', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_ingles-dropdown' } },
+				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_ingles-dropdown-2' } },
 				
 				{ name: 'Icono Antes', element: 'span', attributes: { 'class': 'icon icon-antes' } },
 				{ name: 'Icono Durante', element: 'span', attributes: { 'class': 'icon icon-durante' } },
@@ -217,7 +214,7 @@ santillana_chile-js
 					'</div>';
 
 			$navbarBottom
-				.attr('class', 'santi_ingles-navbar')
+				.attr('class', 'santillana_ingles-navbar')
 				.wrapInner('<div class="navbar-content"></div>')
 				.find('ol')
 					.before(dropDown)
@@ -379,7 +376,7 @@ santillana_chile-js
 
 		animateNavbarOnScroll: function () {
 			if (!blink.isApp) return;
-			var $navbar = $('.santi_ingles-navbar');
+			var $navbar = $('.santillana_ingles-navbar');
 			var lastScrollTop = 0;
 			$('.js-slider-item').scroll(function () {
 				var scrollTop = $(this).scrollTop();
@@ -389,14 +386,14 @@ santillana_chile-js
 		},
                 
                 changeHighBar: function () {
-                    if($('.santi_ingles-navbar').length>0 && $('.navbar').length>0){
-                        blink.theme.setTopByHeight('.navbar', '.santi_ingles-navbar');
+                    if($('.santillana_ingles-navbar').length>0 && $('.navbar').length>0){
+                        blink.theme.setTopByHeight('.navbar', '.santillana_ingles-navbar');
                     }
                 }
 	};
 
-	santi_inglesStyle.prototype = _.extend({}, new blink.theme.styles.basic(), santi_inglesStyle.prototype);
+	santillana_inglesStyle.prototype = _.extend({}, new blink.theme.styles.basic(), santillana_inglesStyle.prototype);
 
-	blink.theme.styles['santi_ingles'] = santi_inglesStyle;
+	blink.theme.styles['santillana_ingles'] = santillana_inglesStyle;
 
 })( blink );
