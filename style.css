@@ -1,5 +1,3 @@
-/*david-css*/
-
 /*General CSS SANTILLANA CHILE*/
 
 /* Fonts */
@@ -1875,10 +1873,11 @@ strong {
     padding: 20px 40px 20px 20px;
 }
 
-/*caja 4 Activaverde flotante = caja inicio bordeNaranja*/
+/*caja 4 Activaverde flotante*/
 
 .bck-box.bck-box-4 .bck-title {
-    color: #ee7f00;
+    background-color: #3aaa35;
+    color: #fff;
     font-weight: 700;
     text-align: left;
     padding: 10px 30px 5px 40px;
@@ -1906,14 +1905,16 @@ strong {
     left: 9px;
     text-align: center;
 }
+.bck-box.bck-box-4 {
+    position: absolute;
+    top: 3%;
+    left: 40px;
+}
 
 .bck-box.bck-box-4 .bck-content {
-position: absolute;
-top: 3%;
-left: 40px;
-border: solid 2px #ee7f00;
-border-radius: 30%;
-background-color: #ffffff;
+    background-color: #f6e7bf;
+    border-radius: 0px 50px 0px 50px;
+    padding: 20px 40px 20px 20px;
 }
 
 /*caja 5 Activaazul*/
