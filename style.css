@@ -1876,8 +1876,7 @@ strong {
 /*caja 4 Activaverde flotante*/
 
 .bck-box.bck-box-4 .bck-title {
-    background-color: #3aaa35;
-    color: #fff;
+    color: #ee7f00;
     font-weight: 700;
     text-align: left;
     padding: 10px 30px 5px 40px;
@@ -1900,7 +1899,6 @@ strong {
 }
 
 .bck-box.bck-box-4 .bck-content {
-    background-color: #fff;
     padding: 20px 40px 20px 20px;
 }
 
