@@ -1907,18 +1907,13 @@ strong {
     text-align: center;
 }
 
-.bck-box.bck-box-4 {
+.bck-box.bck-box-4 .bck-content {
 position: absolute;
 top: 3%;
 left: 40px;
 border: solid 2px #ee7f00;
 border-radius: 30%;
 background-color: #ffffff;
-}
-
-.bck-box.bck-box-4 .bck-content {
-    border-radius: 0px 50px 0px 50px;
-    padding: 20px 40px 20px 20px;
 }
 
 /*caja 5 Activaazul*/
