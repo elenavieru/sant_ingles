@@ -1890,30 +1890,17 @@ strong {
     font-size: 2rem;
 }
 
-.bck-box.bck-box-4 .bck-title:before {
-    content: "\f063";
-    font-family: FontAwesome;
-    display: inline-block;
-    background-color: #fff;
-    color: #3aaa35;
-    border-radius: 50%;
-    padding: 3px;
-    font-weight: 300;
-    width: 24px;
-    height: 24px;
-    position: absolute;
-    left: 9px;
-    text-align: center;
-}
 .bck-box.bck-box-4 {
     position: absolute;
     top: 3%;
     left: 40px;
+    border: solid 2px #ee7f00;
+    background: #efeaea;
+    border-radius: 30px;
 }
 
 .bck-box.bck-box-4 .bck-content {
-    background-color: #f6e7bf;
-    border-radius: 0px 50px 0px 50px;
+    background-color: #fff;
     padding: 20px 40px 20px 20px;
 }
 
