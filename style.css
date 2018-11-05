@@ -1908,10 +1908,13 @@ strong {
     left: 9px;
     text-align: center;
 }
-.bck-box.bck-box-4 {
-    position: absolute;
-    top: 3%;
-    left: 40px;
+.bck-box.bck-box-4 {
+position: absolute;
+top: 3%;
+left: 40px;
+border: solid 2px #ee7f00;
+border-radius: 30px;
+background-color: #ffffff;
 }
 
 .bck-box.bck-box-4 .bck-content {
