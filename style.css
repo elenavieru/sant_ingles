@@ -1909,7 +1909,6 @@ strong {
     text-align: center;
 }
 /*caja inicio bordeNaranja*/
-
 .bck-box.bck-box-4 {
 position: absolute;
 top: 3%;
@@ -1920,8 +1919,9 @@ background-color: #ffffff;
 }
 
 .bck-box.bck-box-4 .bck-content {
+    background-color: #f6e7bf;
     border-radius: 0px 50px 0px 50px;
-    padding: 25px;
+    padding: 20px 40px 20px 20px;
 }
 
 /*caja 5 Activaazul*/
