@@ -774,45 +774,43 @@ content: "\f063";
 
 /*titulo verde = titulo science*/
 
-.bck-title5 {
-font-size: 40px;
-font-weight: 600;
-color: #009641;
-margin-left: 100px;
-margin-bottom: 50px;
-line-height: 3.5rem;
+..bck-title5 {
+font-size: 40px;
+font-weight: 600;
+color: #009641;
+margin-left: 100px;
+margin-bottom: 50px;
+line-height: 3.5rem;
 }
 
-.bck-title5:before {
-background-image: url(https://admin.blinklearning.com/useruploads/r/a/109490946/activity_other_imported/marcador_verde.png);
-content: ' ';
-position: absolute;
-padding: 43px;
-background-repeat: no-repeat;
-background-size: contain;
-left: 0;
+.bck-title5:before {
+background-image: url(https://admin.blinklearning.com/useruploads/r/a/109490946/activity_other_imported/marcador_verde.png);
+content: ' ';
+position: absolute;
+padding: 43px;
+background-repeat: no-repeat;
+background-size: contain;
+left: 0;
 }
-
 /*titulo morado = titulo social*/
 
-.bck-title11 {
-font-size: 40px;
-font-weight: 600;
-color: #9e1b79;
-margin-left: 100px;
-margin-bottom: 50px;
+.bck-title11 {
+font-size: 40px;
+font-weight: 600;
+color: #9e1b79;
+margin-left: 100px;
+margin-bottom: 50px;
 }
 
-.bck-title11:before {
-background-image: url(https://admin.blinklearning.com/useruploads/r/a/109489926/activity_other_imported/marcador_morado.png);
-content: ' ';
-position: absolute;
-padding: 44px;
-background-repeat: no-repeat;
-background-size: contain;
-left: 0;
+.bck-title11:before {
+background-image: url(https://admin.blinklearning.com/useruploads/r/a/109489926/activity_other_imported/marcador_morado.png);
+content: ' ';
+position: absolute;
+padding: 44px;
+background-repeat: no-repeat;
+background-size: contain;
+left: 0px;
 }
-
 /*titulo rojo*/
 
 .bck-title16 {
@@ -823,23 +821,23 @@ left: 0;
 
 /*titulo azul = titulo math*/
 
-.bck-title17 {
-font-size: 40px;
-font-weight: 600;
-color: #0d84ad;
-margin-left: 106px;
-margin-bottom: 50px;
-line-height: 3.5rem;
+.bck-title17 {
+font-size: 40px;
+font-weight: 600;
+color: #0d84ad;
+margin-left: 106px;
+margin-bottom: 50px;
+line-height: 3.5rem;
 }
 
-.bck-title17:before {
-background-image: url(https://admin.blinklearning.com/useruploads/r/a/109490936/activity_other_imported/marcador_azul.png);
-content: ' ';
-position: absolute;
-padding: 44px;
-background-repeat: no-repeat;
-background-size: contain;
-left: 0px;
+.bck-title17:before {
+background-image: url(https://admin.blinklearning.com/useruploads/r/a/109490936/activity_other_imported/marcador_azul.png);
+content: ' ';
+position: absolute;
+padding: 44px;
+background-repeat: no-repeat;
+background-size: contain;
+left: 0px;
 }
 
 
@@ -1402,24 +1400,24 @@ strong {
 #actividad .content .texto_curso ol.bck-ol-4 li:before,
 #actividad .popover-content ol.bck-ol-4 li:before,
 #actividad .content .workspace ol li .bck-ol-4 li:before {
-content: counter(bck-li-counter)" ";
-position: absolute;
-background: rgba(0,150,65,1);
-background: -moz-linear-gradient(left, rgba(0,150,65,1) 0%, rgba(150,193,31,1) 80%, rgba(150,193,31,1) 100%);
-background: -webkit-gradient(left top, right top, color-stop(0%, rgba(0,150,65,1)), color-stop(80%, rgba(150,193,31,1)), color-stop(100%, rgba(150,193,31,1)));
-background: -webkit-linear-gradient(left, rgba(0,150,65,1) 0%, rgba(150,193,31,1) 80%, rgba(150,193,31,1) 100%);
-background: -o-linear-gradient(left, rgba(0,150,65,1) 0%, rgba(150,193,31,1) 80%, rgba(150,193,31,1) 100%);
-background: -ms-linear-gradient(left, rgba(0,150,65,1) 0%, rgba(150,193,31,1) 80%, rgba(150,193,31,1) 100%);
-background: linear-gradient(to right, rgba(0,150,65,1) 0%, rgba(150,193,31,1) 80%, rgba(150,193,31,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009641', endColorstr='#96c11f', GradientType=1 );
-/* background: #97bf0d; */
-width: 28px;
-height: 28px;
-line-height: unset;
-text-align: center;
-margin-left: -35px;
-color: #fff;
-border-radius: 25px 25px 25px 25px;
+content: counter(bck-li-counter)" ";
+position: absolute;
+background: rgba(0,150,65,1);
+background:-moz-linear-gradient(left, rgba(0,150,65,1) 0%, rgba(150,193,31,1) 80%, rgba(150,193,31,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(0,150,65,1)), color-stop(80%, rgba(150,193,31,1)), color-stop(100%, rgba(150,193,31,1)));
+background: webkit-linear-gradient(left, rgba(0,150,65,1) 0%, rgba(150,193,31,1) 80%, rgba(150,193,31,1) 100%);
+background: -o-linear-gradient(left, rgba(0,150,65,1) 0%, rgba(150,193,31,1) 80%, rgba(150,193,31,1) 100%);
+background: -ms-linear-gradient(left, rgba(0,150,65,1) 0%, rgba(150,193,31,1) 80%, rgba(150,193,31,1) 100%);
+background: linear-gradient(to right, rgba(0,150,65,1) 0%, rgba(150,193,31,1) 80%, rgba(150,193,31,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009641', endColorstr='#96c11f', GradientType=1 );
+/* background: #97bf0d; */
+width: 28px;
+height: 28px;
+line-height: unset;
+text-align: center;
+margin-left: -35px;
+color: #fff;
+border-radius: 25px 25px 25px 25px;
 }
 
 /*lista roja*/
@@ -1475,29 +1473,29 @@ border-radius: 25px 25px 25px 25px;
 #actividad .content .cke_contents .bck-ol-10 li:before, 
 #actividad .content .texto_curso ol.bck-ol-10 li:before, 
 #actividad .popover-content ol.bck-ol-10 li:before, 
-#actividad .content .workspace ol li .bck-ol-10 li:before {
-content: counter(bck-li-counter)" ";
-position: absolute;
-/* background: #63c3d1; */
-background: rgba(0,145,143,1);
-background: -moz-linear-gradient(left, rgba(0,145,143,1) 0%, rgba(99,194,209,1) 93%, rgba(99,194,209,1) 100%);
-background: -webkit-gradient(left top, right top, color-stop(0%, rgba(0,145,143,1)), color-stop(93%, rgba(99,194,209,1)), color-stop(100%, rgba(99,194,209,1)));
-background: -webkit-linear-gradient(left, rgba(0,145,143,1) 0%, rgba(99,194,209,1) 93%, rgba(99,194,209,1) 100%);
-background: -o-linear-gradient(left, rgba(0,145,143,1) 0%, rgba(99,194,209,1) 93%, rgba(99,194,209,1) 100%);
-background: -ms-linear-gradient(left, rgba(0,145,143,1) 0%, rgba(99,194,209,1) 93%, rgba(99,194,209,1) 100%);
-background: linear-gradient(to right, rgba(0,145,143,1) 0%, rgba(99,194,209,1) 93%, rgba(99,194,209,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00918f', endColorstr='#63c2d1', GradientType=1 );
-width: 28px;
-height: 28px;
-line-height: unset;
-text-align: center;
-margin-left: -34px;
-color: #fff;
-border-radius: 25px;
+#actividad .content .workspace ol li .bck-ol-10 li:before {
+content: counter(bck-li-counter)" ";
+position: absolute;
+/* background: #63c3d1; */
+background: rgba(0,145,143,1);
+background: -moz-linear-gradient(left, rgba(0,145,143,1) 0%, rgba(99,194,209,1) 93%, rgba(99,194,209,1) 100%);
+background:-webkit-gradient(left top, right top, color-stop(0%, rgba(0,145,143,1)), color-stop(93%, rgba(99,194,209,1)), color-stop(100%, rgba(99,194,209,1)));
+background:-webkit-linear-gradient(left, rgba(0,145,143,1) 0%, rgba(99,194,209,1) 93%, rgba(99,194,209,1) 100%);
+background:-o-linear-gradient(left, rgba(0,145,143,1) 0%, rgba(99,194,209,1) 93%, rgba(99,194,209,1) 100%);
+background:-ms-linear-gradient(left, rgba(0,145,143,1) 0%, rgba(99,194,209,1) 93%, rgba(99,194,209,1) 100%);
+background: linear-gradient(to right, rgba(0,145,143,1) 0%, rgba(99,194,209,1) 93%, rgba(99,194,209,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00918f', endColorstr='#63c2d1', GradientType=1 );
+width: 28px;
+height: 28px;
+line-height: unset;
+text-align: center;
+margin-left: -34px;
+color: #fff;
+border-radius: 25px;
 }
 
 
-/*lista morado*/
+/*lista morado = listas ordenadas social*/
 #actividad .content .cke_contents .bck-ol-7,
 #actividad .content .texto_curso .bck-ol-7,
 #actividad .content .workspace ol li .bck-ol-7 {
@@ -1517,27 +1515,27 @@ border-radius: 25px;
 #actividad .content .cke_contents .bck-ol-7 li:before,
 #actividad .content .texto_curso ol.bck-ol-7 li:before,
 #actividad .popover-content ol.bck-ol-7 li:before,
-#actividad .content .workspace ol li .bck-ol-7 li:before {
-content: counter(bck-li-counter)" ";
-position: absolute;
-background: rgba(79,36,84,1);
-background: -moz-linear-gradient(left, rgba(79,36,84,1) 0%, rgba(158,27,121,1) 64%, rgba(158,27,121,1) 100%);
-background: -webkit-gradient(left top, right top, color-stop(0%, rgba(79,36,84,1)), color-stop(64%, rgba(158,27,121,1)), color-stop(100%, rgba(158,27,121,1)));
-background: -webkit-linear-gradient(left, rgba(79,36,84,1) 0%, rgba(158,27,121,1) 64%, rgba(158,27,121,1) 100%);
-background: -o-linear-gradient(left, rgba(79,36,84,1) 0%, rgba(158,27,121,1) 64%, rgba(158,27,121,1) 100%);
-background: -ms-linear-gradient(left, rgba(79,36,84,1) 0%, rgba(158,27,121,1) 64%, rgba(158,27,121,1) 100%);
-background: linear-gradient(to right, rgba(79,36,84,1) 0%, rgba(158,27,121,1) 64%, rgba(158,27,121,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4f2454', endColorstr='#9e1b79', GradientType=1 );
-/* background: #9e61a4; */
-width: 28px;
-height: 28px;
-margin-left: -35px;
-margin-top: -1px;
-line-height: initial;
-text-align: center;
-color: #fff;
-border-radius: 25px;
-padding: 2px;
+#actividad .content .workspace ol li .bck-ol-7 li:before {
+content: counter(bck-li-counter)" ";
+position: absolute;
+background: rgba(79,36,84,1);
+background: -moz-linear-gradient(left, rgba(79,36,84,1) 0%, rgba(158,27,121,1) 64%, rgba(158,27,121,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(79,36,84,1)), color-stop(64%, rgba(158,27,121,1)), color-stop(100%, rgba(158,27,121,1)));
+background: -webkit-linear-gradient(left, rgba(79,36,84,1) 0%, rgba(158,27,121,1) 64%, rgba(158,27,121,1) 100%);
+background: -o-linear-gradient(left, rgba(79,36,84,1) 0%, rgba(158,27,121,1) 64%, rgba(158,27,121,1) 100%);
+background: -ms-linear-gradient(left, rgba(79,36,84,1) 0%, rgba(158,27,121,1) 64%, rgba(158,27,121,1) 100%);
+background: linear-gradient(to right, rgba(79,36,84,1) 0%, rgba(158,27,121,1) 64%, rgba(158,27,121,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4f2454', endColorstr='#9e1b79', GradientType=1 );
+/* background: #9e61a4; */
+width: 28px;
+height: 28px;
+margin-left: -35px;
+margin-top: -1px;
+line-height: initial;
+text-align: center;
+color: #fff;
+border-radius: 25px;
+padding: 2px;
 }
 
 
