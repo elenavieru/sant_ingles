@@ -161,7 +161,7 @@ input, button, select, textarea {
 #actividad .workspace.multiple-choice .js-item ul li:before,
 #actividad .workspace.matching .box ul li:before,
 #actividad .workspace.ordenar .js-rank-item ul li:before {
-    background-color: #262e2a;
+    background-color: #87888a;
     border-radius: 50%;
 }
 
@@ -392,9 +392,9 @@ body.is_app .santillana_ingles-navbar.ocultar {
 .content_type_clase_santillana_ingles .santillana_ingles-navbar .navbar-content h2 {
     color: #fff;
     font-weight: 600;
-    font-size: 2.5rem;
+    font-size: 2rem;
     margin-bottom: 0;
-    padding-top: 20px;
+    padding-top: 25px;
     padding-left: 60px;
     position: relative;
     text-align: left;
