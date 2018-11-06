@@ -1610,7 +1610,7 @@ strong {
     position: absolute;
     height: 6px;
     width: 6px;
-    background-color: #3aaa35;
+    background-color: #97bf0d;
     margin-top: 12px;
     margin-left: -15px;
     margin-right: 7px;
@@ -2221,6 +2221,7 @@ strong {
     font-weight: 500;
     text-align: left;
     padding: 10px 0px 1px 20px;
+    margin-top: 20px;
     border-radius: 0px 0px 0px 0px;
     font-size: 1.5rem;
     letter-spacing: 1px;
@@ -2530,12 +2531,13 @@ table td.bck-td-1 {
 
 .bck-table-2 {
     border-radius: 10px;
-    border: 2px solid #a1c037;
+    border: 2px solid #97bf0d;
 
 }
 
 .bck-table-2 td {
-    border: 1px solid #a1c037;
+    border: 2px solid #97bf0d;
+    border-radius: 10px;
 }
 
 
