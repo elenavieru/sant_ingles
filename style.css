@@ -2298,22 +2298,21 @@ strong {
     padding-left: 10px;
 }
 
-/*caja azul*/
+/*caja azul = caja azul bordes redondeados*/
 
 .bck-box.bck-box-12 .bck-title {
-    background-color: #c0c8d4;
+    background-color: #fff;
     color: #333;
-    font-weight: 600;
+    font-weight: 500;
     text-align: center;
-    padding: 10px 0px 5px 0px;
-    border-radius: 20px 20px 0px 0px;
+    padding: 5px 0px 10px 0px;
+    border-radius: 20px 20px 20px 20px;
     letter-spacing: 1px;
+    border: 1px solid #a7bbc9;
 }
 
 .bck-box.bck-box-12 .bck-content {
     background-color: #ffffff;
-    border: 1px solid #848d94;
-    border-radius: 0px 0px 20px 20px;
     padding-left: 20px;
 }
 
