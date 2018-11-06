@@ -2213,23 +2213,22 @@ strong {
     padding: 10px 20px 10px 20px;
 }
 
-/*caja resumen naranja*/
+/*caja resumen naranja = caja linea discontinua naranja*/
 
 .bck-box.bck-box-9 .bck-title {
-    background-color: #eae7d8;
-    color: #d3711c;
-    font-weight: 700;
+    background-color: #fffdec;
+    color: #59595a;
+    font-weight: 500;
     text-align: left;
     padding: 10px 0px 1px 20px;
-    border-radius: 0px 20px 0px 0px;
-    font-size: 1.8rem;
+    border-radius: 0px 0px 0px 0px;
+    font-size: 1.5rem;
     letter-spacing: 1px;
-   
-    
+    border: 2px #f9b200 dashed;    
 }
 
 .bck-box.bck-box-9 .bck-content {
-    background-color: #eae7d8;
+    background-color: #fffdec;
     border-radius: 0px 0px 20px 20px;
     padding: 10px 20px 10px 20px;
     font-size: 1.8rem;
