@@ -383,7 +383,6 @@ body.is_app .santillana_ingles-navbar.ocultar {
 .content_type_clase_santillana_ingles .santillana_ingles-navbar .dropdownTemas .caret{
     border-color: #ffffff transparent transparent transparent;
     margin-left: 10px;
-    display: none;
 }
 
 .content_type_clase_santillana_ingles .santillana_ingles-navbar .dropdownTemas .dropdown-menu {
