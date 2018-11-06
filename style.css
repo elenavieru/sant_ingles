@@ -1373,7 +1373,7 @@ strong {
     text-align: center;
     margin-left: -34px;
     color: #fff;
-    border-radius: 25px;
+    border-radius: 25px 25px 25px 25px;
 }
 
 /*lista roja*/
