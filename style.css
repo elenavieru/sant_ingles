@@ -1211,10 +1211,10 @@ strong {
     border-radius: 20%;
     font-weight: 700;
 }
-
+/*enfasis gris enunciado actividades*/
 .bck-gris {
-    color: #98a6b9;
-    font-size: 2.2rem;
+    color: #7595a8;
+    font-size: 1.3rem;
 }
 
 .bck-fondoazul {
@@ -1341,7 +1341,7 @@ strong {
 }
 
 
-/*lista verde*/
+/*lista verde  = lista ordenada verde circulos*/
 
 #actividad .content .cke_contents .bck-ol-4,
 #actividad .content .texto_curso .bck-ol-4,
@@ -1366,14 +1366,14 @@ strong {
 #actividad .content .workspace ol li .bck-ol-4 li:before {
     content: counter(bck-li-counter)" ";
     position: absolute;
-    background: #19763a;
+    background: #97bf0d;
     width: 28px;
     height: 28px;
     line-height: unset;
     text-align: center;
     margin-left: -34px;
     color: #fff;
-    border-radius: 8px 8px 0px 8px;
+    border-radius: 25px;
 }
 
 /*lista roja*/
@@ -1722,7 +1722,7 @@ strong {
     line-height: 2.1rem;
 }
 
-/*caja pop up*/
+/*caja pop up textos*/
 .bck-tooltip, .bck-underline{
     text-decoration: none;  
 }
@@ -2947,8 +2947,36 @@ td {
    top: 105%;
 }
 
-.content_type_clase_santillana_ingles #actividad .texto_curso li, .content_type_clase_santillana_ingles #actividad .workspace ul li li,
-#actividad .content .cke_contents .bck-ol-2 li, #actividad .content .texto_curso .bck-ol-2 li, #actividad .popover-content .bck-ol-2 li, #actividad .content .workspace ol li .bck-ol-2 li, #actividad .content .texto_curso .bck-ol-3 li, #actividad .content .cke_contents .bck-ol-3 li, #actividad .popover-content .bck-ol-3 li, #actividad .content .workspace ol li .bck-ol-3 li, #actividad .content .cke_contents .bck-ol-4 li, #actividad .content .texto_curso .bck-ol-4 li, #actividad .popover-content .bck-ol-4 li, #actividad .content .workspace ol li .bck-ol-4 li, #actividad .content .cke_contents .bck-ol-5 li, #actividad .content .texto_curso .bck-ol-5 li, #actividad .popover-content .bck-ol-5 li, #actividad .content .workspace ol li .bck-ol-5 li, #actividad .content .cke_contents .bck-ol-6 li, #actividad .content .texto_curso .bck-ol-6 li, #actividad .popover-content .bck-ol-6 li, #actividad .content .workspace ol li .bck-ol-6 li, #actividad .content .cke_contents .bck-ol-7 li, #actividad .content .texto_curso .bck-ol-7 li, #actividad .popover-content .bck-ol-7 li, #actividad .content .workspace ol li .bck-ol-7 li, #actividad .content .cke_contents .bck-ol-8 li, #actividad .content .texto_curso .bck-ol-8 li, #actividad .popover-content .bck-ol-8 li, #actividad .content .workspace ol li .bck-ol-8 li {
+.content_type_clase_santillana_ingles #actividad .texto_curso li, 
+.content_type_clase_santillana_ingles #actividad .workspace ul li li,
+#actividad .content .cke_contents .bck-ol-2 li, 
+#actividad .content .texto_curso .bck-ol-2 li, 
+#actividad .popover-content .bck-ol-2 li, 
+#actividad .content .workspace ol li .bck-ol-2 li, 
+#actividad .content .texto_curso .bck-ol-3 li, 
+#actividad .content .cke_contents .bck-ol-3 li, 
+#actividad .popover-content .bck-ol-3 li, 
+#actividad .content .workspace ol li .bck-ol-3 li, 
+#actividad .content .cke_contents .bck-ol-4 li, 
+#actividad .content .texto_curso .bck-ol-4 li, 
+#actividad .popover-content .bck-ol-4 li, 
+#actividad .content .workspace ol li .bck-ol-4 li, 
+#actividad .content .cke_contents .bck-ol-5 li, 
+#actividad .content .texto_curso .bck-ol-5 li, 
+#actividad .popover-content .bck-ol-5 li, 
+#actividad .content .workspace ol li .bck-ol-5 li, 
+#actividad .content .cke_contents .bck-ol-6 li, 
+#actividad .content .texto_curso .bck-ol-6 li, 
+#actividad .popover-content .bck-ol-6 li, 
+#actividad .content .workspace ol li .bck-ol-6 li, 
+#actividad .content .cke_contents .bck-ol-7 li, 
+#actividad .content .texto_curso .bck-ol-7 li, 
+#actividad .popover-content .bck-ol-7 li, 
+#actividad .content .workspace ol li .bck-ol-7 li, 
+#actividad .content .cke_contents .bck-ol-8 li, 
+#actividad .content .texto_curso .bck-ol-8 li, 
+#actividad .popover-content .bck-ol-8 li, 
+#actividad .content .workspace ol li .bck-ol-8 li {
     font-size: 14px;
 }
 
