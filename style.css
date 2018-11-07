@@ -811,12 +811,25 @@ background-repeat: no-repeat;
 background-size: contain;
 left: 0px;
 }
-/*titulo rojo*/
+/*titulo rojo = marcador science lab*/
 
 .bck-title16 {
-    font-size: 26px;
-    font-weight: 600;
-    color: #e30613;
+font-size: 40px;
+font-weight: 600;
+color: #009641;
+margin-left: 100px;
+margin-bottom: 50px;
+line-height: 3.5rem;
+}
+
+.bck-title16:before {
+background-image: url(https://admin.blinklearning.com/useruploads/r/a/109518606/activity_other_imported/marcador_verde_scienceLab.png);
+content: ' ';
+position: absolute;
+padding: 44px;
+background-repeat: no-repeat;
+background-size: contain;
+left: 0px;
 }
 
 /*titulo azul = titulo math*/
