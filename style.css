@@ -800,6 +800,7 @@ font-weight: 600;
 color: #4f2454;
 margin-left: 100px;
 margin-bottom: 50px;
+text-align: left;
 }
 
 .bck-title11:before {
@@ -841,6 +842,7 @@ color: #00918e;
 margin-left: 106px;
 margin-bottom: 50px;
 line-height: 3.5rem;
+text-align: left;
 }
 
 .bck-title17:before {
@@ -877,6 +879,7 @@ font-size: 2.5rem;
 margin-left: 115px;
 margin-bottom: 10px;
 font-weight: 800;
+text-align: left;
 }
 
 .bck-title6:before{
@@ -918,6 +921,7 @@ font-size: 2.5rem;
 font-weight: 800;
 margin-left: 115px;
 margin-bottom: 10px;
+text-align: left;
 }
 
 .bck-title12:before {
@@ -938,6 +942,7 @@ font-size: 2.5rem;
 margin-left: 115px;
 margin-bottom: 10px;
 font-weight: 800;
+text-align: left;
 }
 
 .bck-title32:before {
@@ -958,6 +963,7 @@ font-size: 2.5rem;
 margin-left: 115px;
 margin-bottom: 10px;
 font-weight: 800;
+text-align: left;
 }
 
 .bck-title33:before {
@@ -978,6 +984,7 @@ font-size: 2.5rem;
 font-weight: 800;
 margin-left: 115px;
 margin-bottom: 10px;
+text-align: left;
 }
 
 .bck-title34:before {
@@ -1031,6 +1038,7 @@ font-size: 2.5rem;
 font-weight: 800;
 margin-left: 115px;
 margin-bottom: 10px;
+text-align: left;
 }
 
 .bck-title24:before {
@@ -1066,6 +1074,7 @@ font-weight: 600;
 margin-left: 100px;
 margin-bottom: 50px;
 line-height: 3.5rem;
+text-align: left;
 }
 
 .bck-title10:before {
@@ -1139,6 +1148,7 @@ font-size: 2.5rem;
 font-weight: 800;
 margin-left: 115px;
 margin-bottom: 10px;
+text-align: left;
 }
 
 .bck-title23:before {
@@ -1170,6 +1180,7 @@ color: #0d84ad;
 font-size: 2.5rem;
 margin-left: 115px;
 margin-bottom: 10px;
+text-align: left;
 }
 
 .bck-title27:before {
@@ -1191,6 +1202,7 @@ color: #009641;
 font-size: 2.5rem;
 margin-left: 115px;
 margin-bottom: 10px;
+text-align: left;
 }
 
 .bck-title35:before {
@@ -2935,7 +2947,8 @@ td {
 
 @media screen and (max-width: 1024px){
 
-#actividad .carousel-inner .item-container.copy-fullscreen-top .fs-img-container, #actividad .carousel-inner .item-container.copy-fullscreen-bottom .fs-img-container {
+#actividad .carousel-inner .item-container.copy-fullscreen-top .fs-img-container, 
+#actividad .carousel-inner .item-container.copy-fullscreen-bottom .fs-img-container {
     width: 768px;
     height: 1024px !important;
 }
@@ -3169,7 +3182,7 @@ td {
 #actividad .content .texto_curso .bck-ol-8 li, 
 #actividad .popover-content .bck-ol-8 li, 
 #actividad .content .workspace ol li .bck-ol-8 li {
-    font-size: 14px;
+    font-size: 18px;
 }
 
 .texto_curso p {
@@ -3187,11 +3200,11 @@ td {
 }
 
 .bck-title5 {
-    font-size: 17px;
+    font-size: 40px;
 }
 
 .bck-title6{
-font-size: 20px;
+font-size: 2.5rem;
 }
 
 .bck-box.bck-box-2,.bck-box.bck-box-5, .bck-box.bck-box-6, .bck-box.bck-box-7, .bck-box.bck-box-8, .bck-box.bck-box-9, .bck-box.bck-box-10, .bck-box.bck-box-11, .bck-box.bck-box-12,.bck-box.bck-box-13,.bck-box.bck-box-14,.bck-box.bck-box-15,.bck-box.bck-box-16,.bck-box.bck-box-17,.bck-box.bck-box-18,.bck-box.bck-box-19, .bck-box.bck-box-20,.bck-box.bck-box-21,.bck-box.bck-box-22,.bck-box.bck-box-24, .bck-box.bck-box-25{
