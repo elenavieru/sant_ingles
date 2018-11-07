@@ -869,30 +869,46 @@ h6 {
     color: #707172;
 }
 
-/*explora*/
+/*explora = step 4 social*/
 
 .bck-title6 {
-    background: #a1c037;
-    width: fit-content;
-    padding: 7px 20px 5px 20px;
-    color: #fff;
-    font-weight: bold;
-    border-radius: 20px 20px 0% 0%;
+color: #9e1b79;
+font-size: 2.5rem;
+margin-left: 115px;
+margin-bottom: 10px;
+font-weight: 800;
 }
 
-
-
-/*paso gris*/
+.bck-title6:before{
+content:' ';
+background-image: url(https://admin.blinklearning.com/useruploads/r/a/109540486/activity_other_imported/step_4_social.png);
+background-repeat: no-repeat;
+background-size: contain;
+padding: 55px;
+position: absolute;
+left: 0;
+margin-top: -7px;
+}
+/*paso gris = step 3 social*/
 
 .bck-title7 {
-    background: #98a6b9;
-    width: fit-content;
-    padding: 5px 10px 5px 10px;
-    color: #fff;
-    border-radius: 10px 10px 10px 10px;
-    font-size: 2rem;
+color: #0d84ad;
+font-size: 2.5rem;
+font-weight: 800;
+margin-left: 115px;
+margin-bottom: 10px;
 }
 
+.bck-title7:before {
+content: ' ';
+background-image: url(https://admin.blinklearning.com/useruploads/r/a/109540466/activity_other_imported/step_3_social.png);
+background-repeat: no-repeat;
+background-size: contain;
+position: absolute;
+left: 0px;
+padding: 50px;
+margin-top: -7px;
+}
 /*paso naranja = step naranja*/
 .bck-title12 {
 color: #f6a924;
