@@ -1493,6 +1493,7 @@ line-height: unset;
 text-align: center;
 margin-left: -34px;
 color: #fff;
+padding-left: 1px;
 border-radius: 25px;
 }
 
@@ -1537,7 +1538,8 @@ line-height: initial;
 text-align: center;
 color: #fff;
 border-radius: 25px;
-padding: 2px;
+padding-left: 1px;
+padding-top: 2px;
 }
 
 
