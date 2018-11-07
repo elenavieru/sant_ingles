@@ -2005,19 +2005,19 @@ padding-top: 2px;
     letter-spacing: 1px;
 }
 
-.bck-box.bck-box-2 .bck-title p{
+/*.bck-box.bck-box-2 .bck-title p{
     font-size: 2rem;
     border-bottom: 2px solid #ffffff;
     padding-left: 30px;
     padding-top: 5px;
     margin-top: -30px;
-}
+}*/
 
 
 .bck-box.bck-box-2 .bck-content {
-    background-color: #a87c24;
+    background-color: #fff;
     padding: 20px 40px 20px 20px;
-    color: #fff;
+    color: #333;
 }
 
 
