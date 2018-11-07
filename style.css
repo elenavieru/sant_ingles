@@ -3012,6 +3012,9 @@ td {
     .content_type_clase_santillana_ingles .santillana_ingles-navbar .dropdown {
     display: none!important;
    }
+   .content_type_clase_santillana_ingles .santillana_ingles-navbar {
+    top: 88px;
+   }
 }
 
 
