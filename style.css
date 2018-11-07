@@ -1997,13 +1997,11 @@ padding-top: 2px;
 
 .bck-box.bck-box-2 .bck-title {
 color: #333;
-font-weight: 700;
-margin-top:30px;
-background-color: #ffff;
+border-radius: 20px 20px 20px 20px;
+margin-top: 30px;
 text-align: left;
 letter-spacing: 1px;
 border: 2px dashed #b7b7b7;
-border-radius: 20px 20px 20px 20px;
 }
 
 /*.bck-box.bck-box-2 .bck-title p{
