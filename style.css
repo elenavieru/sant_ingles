@@ -2110,20 +2110,19 @@ padding-top: 2px;
     border-radius: 0px 50px 0px 50px;
 }
 
-/*caja 6 Activamorado*/
-
-.bck-box.bck-box-6 .bck-title {
-    background-color: #9e61a4;
-    color: #fff;
-    font-weight: 700;
-    text-align: left;
-    padding: 10px 30px 5px 40px;
-    border-radius: 20px 0px 0px 0px;
-    width: fit-content;
-    letter-spacing: 1px;
+/*caja 6 Activamorado = = caja social lineaMorada*/
+.bck-box.bck-box-6 .bck-title {
+background-color:#ffff;
+color: #404040;
+border: 2px solid #b6659a;
+font-weight:700;
+text-align: left;
+padding: 10px 30px 5px 40px;
+border-radius: 20px 20px 20px 20px;
+letter-spacing: 1px;
 }
 
-.bck-box.bck-box-6 .bck-title:before {
+/*.bck-box.bck-box-6 .bck-title:before {
     content: "\f063";
     font-family: FontAwesome;
     display: inline-block;
@@ -2137,13 +2136,12 @@ padding-top: 2px;
     position: absolute;
     left: 9px;
     text-align: center;
-}
-
+}*/
 
 .bck-box.bck-box-6 .bck-content {
-    background-color: #f6e7bf;
-    border-radius: 0px 50px 0px 50px;
+background-color: #ffffff;
 }
+
 
 /*caja 15 Activarojo*/
 
@@ -2681,8 +2679,9 @@ background-image: url(imagenes/despuesbuitretexto.png);
 
 /**TABLA**/
 
+/*table = tabla social naranja*/
 .bck-table {
-    border: 0;
+border: 1px solid #ee7f00;
 }
 
 .bck-table td {
