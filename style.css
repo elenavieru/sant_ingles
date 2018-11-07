@@ -895,14 +895,24 @@ h6 {
     font-size: 2rem;
 }
 
-/*paso naranja*/
+/*paso naranja = step naranja*/
 .bck-title12 {
-    background: #f8a800;
-    width: fit-content;
-    padding: 5px 10px 5px 10px;
-    color: #fff;
-    border-radius: 10px 10px 10px 10px;
-    font-size: 2rem;
+color: #f6a924;
+font-size: 2.5rem;
+font-weight: 800;
+margin-left: 115px;
+margin-bottom: 10px;
+}
+
+.bck-title12:before {
+content: ' ';
+background-image: url(https://admin.blinklearning.com/useruploads/r/a/109524396/activity_other_imported/step_naranja.png);
+padding: 50px;
+background-repeat: no-repeat;
+background-size: contain;
+position: absolute;
+left: 0;
+margin-top: -7px;
 }
 
 /*paso morado*/
@@ -925,22 +935,33 @@ h6 {
     font-size: 2rem;
 }
 
-/*paso azul*/
+/*paso azul = step azulClaro*/
 .bck-title34 {
-    background: #00b1eb;
-    width: fit-content;
-    padding: 5px 10px 5px 10px;
-    color: #fff;
-    border-radius: 10px 10px 10px 10px;
-    font-size: 2rem;
+color:#63c3d1;
+font-size: 2.5rem;
+font-weight: 800;
+margin-left: 115px;
+margin-bottom: 10px;
 }
 
-/*titulo gris*/
+.bck-title34:before {
+content: ' ';
+background-image:url(https://admin.blinklearning.com/useruploads/r/a/109524326/activity_other_imported/step_azulClaro.png);
+padding: 50px;
+background-repeat: no-repeat;
+background-size: contain;
+position: absolute;
+left: 0;
+margin-top: -7px;
+}
+
+/*titulo gris = titulo2 science gris*/
 
 .bck-title8 {
-    font-size: 2.2rem;
-    font-weight: bold;
-    color: #4b4b4a;
+font-size: 2.8rem;
+font-weight: bold;
+color: #646567;
+text-align: center;
 }
 
 /*pie de foto = pie de titulo triangulo naranaja*/
@@ -967,15 +988,24 @@ h6 {
 
 
 
-/*saber hacer*/
+/*saber hacer = step rojo*/
 .bck-title24 {
-    background-color: #ffffff;
-    color: #f8a800;
-    width: fit-content;
-    border-radius: 10px 10px 0px 0px;
-    padding: 5px 10px 4px 10px;
-    font-size: 3.3rem;
-    font-weight: 600;
+color: #e32119;
+font-size: 2.5rem;
+font-weight: 800;
+margin-left: 115px;
+margin-bottom: 10px;
+}
+
+.bck-title24:before {
+content: ' ';
+background-image: url(https://admin.blinklearning.com/useruploads/r/a/109524426/activity_other_imported/step_rojo.png);
+background-repeat: no-repeat;
+background-size: contain;
+padding: 50px;
+position: absolute;
+left: 0;
+margin-top:-7px;
 }
 
 /*saber hacer2*/
@@ -1056,15 +1086,24 @@ h6 {
     font-weight: 600;
 }
 
-/*demuestra morado*/
+/*demuestra morado = step moradoOscuro*/
 .bck-title23 {
-    background-color: #9e61a4;
-    color: #ffffff;
-    border-radius: 0px 0px 20px 0px;
-    padding: 7px 20px 7px 20px;
-    width: fit-content;
-    font-size: 2.4rem;
-    font-weight: 600;
+color: #4f2454;
+font-size: 2.5rem;
+font-weight: 800;
+margin-left: 115px;
+margin-bottom: 10px;
+}
+
+.bck-title23:before {
+content: ' ';
+background-image:url(https://admin.blinklearning.com/useruploads/r/a/109530576/activity_other_imported/step_moradoOscuro.png);
+background-repeat: no-repeat;
+background-size: contain;
+padding: 50px;
+position: absolute;
+left: 0;
+margin-top: -7px;
 }
 
 /*relaciona*/
