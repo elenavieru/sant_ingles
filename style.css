@@ -306,7 +306,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 
 .content_type_clase_santillana_ingles .santillana_ingles-navbar {
     position: fixed;
-    top: 44px !important;
+    top: 44px;
     width: 100%;
     left: 0;
     z-index: 100;
