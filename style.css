@@ -1042,12 +1042,21 @@ margin-top:-7px;
 
 /*revisa naranja1*/
 .bck-title10 {
-    background-color: #f8a800;
-    color: #ffffff;
-    border-radius: 0px 0px 20px 0px;
-    padding: 7px 20px 7px 20px;
-    width: fit-content;
-    font-size: 2.4rem;
+font-size: 40px;
+font-weight: 600;
+margin-left: 100px;
+margin-bottom: 50px;
+line-height: 3.5rem;
+}
+
+.bck-title10:before {
+content: ' ';
+background-image: url(https://admin.blinklearning.com/useruploads/r/a/109536796/activity_other_imported/marcador_workshop_morado.png);
+background-repeat: no-repeat;
+background-size: contain;
+position: absolute;
+left: 0;
+padding: 44px;
 }
 
 /*revisa naranja2*/
