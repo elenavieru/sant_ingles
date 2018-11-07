@@ -2122,7 +2122,7 @@ border-radius: 20px 20px 20px 20px;
 letter-spacing: 1px;
 }
 
-/*.bck-box.bck-box-6 .bck-title:before {
+.bck-box.bck-box-6 .bck-title:before {
     content: "\f063";
     font-family: FontAwesome;
     display: inline-block;
@@ -2136,7 +2136,7 @@ letter-spacing: 1px;
     position: absolute;
     left: 9px;
     text-align: center;
-}*/
+}
 
 .bck-box.bck-box-6 .bck-content {
 background-color: #ffffff;
