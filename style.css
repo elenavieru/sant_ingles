@@ -1664,7 +1664,7 @@ padding-top: 2px;
 }
 
 
-/*lista letra naranja*/
+/*lista letra naranja = lista ordenada letras math*/
 
 #actividad .content .cke_contents .bck-ol-6,
 #actividad .content .texto_curso .bck-ol-6,
@@ -1690,7 +1690,7 @@ padding-top: 2px;
     content: counter(bck-li-counter, lower-alpha)".";
     position: absolute;
     text-align: center;
-    color: orange;
+    color: #00918e;
     margin-left: -30px;
 }
 
@@ -1720,7 +1720,7 @@ padding-top: 2px;
     content: counter(bck-li-counter, lower-alpha)".";
     position: absolute;
     text-align: center;
-    color: #9e61a4;
+    color: #9e1b79;
     margin-left: -30px;
 }
 
