@@ -1253,14 +1253,15 @@ margin-top: -7px;
     letter-spacing: 2px;
 }
 
-/*titulo Actividades*/
-.bck-title36 {
-   color: #369831;
-   font-weight: bold;
-   text-align: center;
-   font-size: 3rem;
-}
+/*titulo Actividades = titulo 3 Actividades social*/
 
+.bck-title36 {
+color: #9e1b79;
+font-weight: bold;
+text-align: left;
+font-size: 1.5rem;
+text-transform: uppercase;
+}
 
 /*enfasis*/
 
