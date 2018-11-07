@@ -1996,13 +1996,14 @@ padding-top: 2px;
 /*caja 2 marron*/
 
 .bck-box.bck-box-2 .bck-title {
-    color: #fff;
-    font-weight: 700;
-    border-radius: 20px 0px 0px 0px;
-    margin-top: 30px;
-    background-color: #a87c24;
-    text-align: left;
-    letter-spacing: 1px;
+color: #333;
+font-weight: 700;
+margin-top:30px;
+background-color: #ffff;
+text-align: left;
+letter-spacing: 1px;
+border: 2px dashed #b7b7b7;
+border-radius: 20px 20px 20px 20px;
 }
 
 /*.bck-box.bck-box-2 .bck-title p{
