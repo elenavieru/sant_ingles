@@ -1,6 +1,30 @@
 /*inglés*/
 /*General CSS SANTILLANA CHILE*/
 
+
+/*toc*/
+
+.pags{ 
+   display: none; 
+}
+
+.fa-chain:before, .fa-link:before{
+	display: none;
+}
+
+#indice .unit-content .header .title {
+     color: #fff;
+     margin: 0px;
+     width: 100%;
+     font-size: 24px;
+     font-weight: 700;
+     padding: 5px 10px 10px 20px;
+     height: auto;
+     background-color: #3aaa35;
+ }
+
+
+
 /* Fonts */
 
     @font-face {
