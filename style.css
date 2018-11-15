@@ -848,7 +848,7 @@ text-align: left;
 }
 
 .bck-title17:before {
-background-image: url(https://admin.blinklearning.com/useruploads/r/a/109490936/activity_other_imported/marcador_azul.png);
+background-image: url(imagenes_ingles/marcador_azul.png);
 content: ' ';
 position: absolute;
 padding: 44px;
@@ -1308,10 +1308,6 @@ text-transform: uppercase;
 }
 
 /*enfasis*/
-
-strong {
-    font-weight: bold;
-}
 
 
 .bck-enfasis {
