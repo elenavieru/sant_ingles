@@ -333,7 +333,7 @@ body.is_app .santillana_ingles-navbar.ocultar {
     text-indent: 0px;
     width: fit-content;
     line-height: 3.5rem;
-    font-size: 3rem;
+    font-size: 1.9rem;
     cursor: pointer;
 }
 
@@ -353,7 +353,6 @@ body.is_app .santillana_ingles-navbar.ocultar {
 .content_type_clase_santillana_ingles .santillana_ingles-navbar .dropdown .caret {
     border-color: #ffffff transparent transparent transparent;
     margin-left: 10px;
-    display: none;
 }
 
 .content_type_clase_santillana_ingles .santillana_ingles-navbar .navbar-content {
@@ -392,7 +391,7 @@ body.is_app .santillana_ingles-navbar.ocultar {
 .content_type_clase_santillana_ingles .santillana_ingles-navbar .navbar-content h2 {
     color: #fff;
     font-weight: 600;
-    font-size: 2.5rem;
+    font-size: 2.8rem;
     margin-bottom: 0;
     padding-top: 20px;
     padding-left: 60px;
