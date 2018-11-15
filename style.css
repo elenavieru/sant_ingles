@@ -35,7 +35,6 @@
 
 body {
     font-family: HelveticaNeueLTStd-Lt;
-    letter-spacing: 1px;
     font-size: 1.8rem;
 }
 
@@ -1695,6 +1694,7 @@ padding-top: 2px;
 #actividad .content .workspace ol li .bck-ol-5 li {
     position: relative;
     z-index: 0;
+    left: 26px;
 }
 
 #actividad .content .cke_contents .bck-ol-5 li:before,
