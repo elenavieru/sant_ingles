@@ -838,10 +838,10 @@ left: 0px;
 /*titulo azul = titulo math*/
 
 .bck-title17 {
-font-size: 40px;
+font-size: 4rem;
 font-weight: 600;
-color: #00918e;
-margin-left: 106px;
+color: #009D96;
+margin-left: 100px;
 margin-bottom: 50px;
 line-height: 3.5rem;
 text-align: left;
@@ -1597,8 +1597,8 @@ border-radius: 25px 25px 25px 25px;
 #actividad .content .workspace ol li .bck-ol-10 li {
     position: relative;
     z-index: 0;
-    font-weight: 700;
-    color: #0d84ad;
+    font-weight: bold;
+    color: #1A68B3;
 }
 
 #actividad .content .cke_contents .bck-ol-10 li:before, 
@@ -1721,6 +1721,7 @@ padding-top: 2px;
 #actividad .content .workspace ol li .bck-ol-6 li {
     position: relative;
     z-index: 0;
+    left: 22px;
 }
 
 #actividad .content .cke_contents .bck-ol-6 li:before,
