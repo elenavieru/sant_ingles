@@ -777,7 +777,7 @@ content: "\f063";
 
 .bck-title5 {
 font-size: 40px;
-font-weight: 600;
+font-weight: bolder;
 color: #009641;
 margin-left: 100px;
 margin-bottom: 50px;
@@ -785,7 +785,7 @@ line-height: 3.5rem;
 }
 
 .bck-title5:before {
-background-image: url(https://admin.blinklearning.com/useruploads/r/a/109490946/activity_other_imported/marcador_verde.png);
+background-image: url(/imagenes_ingles/marcador_verde.png);
 content: ' ';
 position: absolute;
 padding: 43px;
@@ -793,6 +793,7 @@ background-repeat: no-repeat;
 background-size: contain;
 left: 0;
 }
+
 /*titulo morado = titulo social*/
 
 .bck-title11 {
