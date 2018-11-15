@@ -1756,6 +1756,7 @@ padding-top: 2px;
 #actividad .content .workspace ol li .bck-ol-8 li {
     position: relative;
     z-index: 0;
+    left: 26px;
 }
 
 #actividad .content .cke_contents .bck-ol-8 li:before,
@@ -1766,7 +1767,7 @@ padding-top: 2px;
     position: absolute;
     text-align: center;
     color: #9e1b79;
-    margin-left: -30px;
+    margin-left: -25px;
 }
 
 
