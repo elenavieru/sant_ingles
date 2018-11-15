@@ -1,3 +1,4 @@
+/*inglés*/
 /*General CSS SANTILLANA CHILE*/
 
 /* Fonts */
@@ -2084,27 +2085,19 @@ padding: 20px;
 /*caja 4 Activaverde flotante = caja inicio bordeNaranja*/
 
 .bck-box.bck-box-4 .bck-title {
-    color: #ee7f00;
-    font-weight: 700;
+    color: #EE7F00;
+    font-weight: bold;
     text-align: left;
-    padding: 10px 30px 5px 40px;
-    border-radius: 20px 0px 0px 0px;
-    width: fit-content;
-    letter-spacing: 1px;
-    width: fit-content;
-}
-
-.bck-box.bck-box-4 .bck-title p{
-    font-size: 2rem;
+    padding: 6px 0 0px 35px;
+    border-radius: 20px;
 }
 
 .bck-box.bck-box-4 {
-    position: absolute;
-    top: 3%;
-    left: 40px;
-    border: solid 2px #ee7f00;
-    background: #efeaea;
+    position: relative;
+    border: solid 2px #DD7600;
+    background: #fff;
     border-radius: 30px;
+    text-align: left;
 }
 
 .bck-box.bck-box-4 .bck-content {
@@ -3021,12 +3014,6 @@ td {
     right: 25px;
 } 
 
-.bck-box.bck-box-4 {
-    position: absolute;
-    top: 7%;
-    left: 40px;
-}
-
 .content_type_clase_santillana_ingles .santillana_ingles-navbar {
     top: 88px;
 }
@@ -3142,17 +3129,6 @@ td {
     display: none;
 }
 
-.bck-box.bck-box-4 {
-    width: 100% !important;
-    position: absolute;
-    top: 3%;
-    left: 1%;
-    font-size: 13px;
-}
-
-.bck-box.bck-box-4 .bck-title p {
-    font-size: 15px;
-}
 
 .bck-box.bck-box-3 {
     width: 100% !important;
