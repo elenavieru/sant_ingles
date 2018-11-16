@@ -12,11 +12,6 @@
 	display: none;
 }
 
-#indice .unit-content .actividades .item .acceso,
-#indice .unit-content .actividades .item .online,
-#indice.editar .actividades .online{
-	display: none;
-}
 
 #indice .unit-content .header .title {
      color: #fff;
@@ -29,6 +24,30 @@
      background-color: #3aaa35;
  }
 
+#indice .unit-content .actividades .item .acceso {
+     cursor: pointer;
+     display: none;
+     position: relative;
+     width: 25px;
+     text-align: center;
+     min-height: 20px;
+ }
+
+ .fa-chain:before, .fa-link:before {
+     display: none;
+ }
+
+ #indice .unit-content .actividades .item .online {
+     display: none;
+ }
+
+ #indice .unit-content .actividades .item .acceso:before {
+     display: none;
+ }
+
+ #indice .unit-content .actividades .item .acceso.editorial.lock:before, #indice .unit-content .material .item .acceso.editorial.lock:before {
+     display: none;
+ }
 
 
 /* Fonts */
