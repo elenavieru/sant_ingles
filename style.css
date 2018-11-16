@@ -323,6 +323,7 @@ fieldset[disabled] .content_type_clase_santillana_ingles .slide_main input {
 
 #indice .units ul li {
     background: #cbcbcb;
+    border-radius: 0px;
 }
 
 #indice .units ul li.active:not(.disabled),
