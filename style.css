@@ -12,6 +12,12 @@
 	display: none;
 }
 
+#indice .unit-content .actividades .item .acceso,
+#indice .unit-content .actividades .item .online,
+#indice.editar .actividades .online{
+	display: none;
+}
+
 #indice .unit-content .header .title {
      color: #fff;
      margin: 0px;
@@ -123,18 +129,6 @@ a:hover, a:active, a:focus {
 }
 /*HEADER*/
 
-#indice .unit-content .header .title {
-    color: #fff;
-    float: left;
-    font-size: 30px;
-    font-weight: 700;
-    padding: 4px 10px 6px 10px;
-    height: auto;
-    border-radius: 10px;
-    background-color: #262e2a8f;
-    margin: 20px 140px 20px 30px;
-    letter-spacing: 1px;
-}
 
 .content_type_clase_santillana_ingles #actividad .content .header .title img,
 .content_type_clase_santillana_ingles #actividad .content .header .chapter {
