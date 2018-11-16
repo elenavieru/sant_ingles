@@ -49,6 +49,10 @@
      display: none;
  }
 
+  .title-buttons {
+      text-align: left;
+ }
+
 
 /* Fonts */
 
@@ -2872,6 +2876,25 @@ td {
  .btn-primary.disabled:focus {
     background: orange;
  }
+
+.btn-primary, .btn-primary.disabled {
+     color: #333;
+     background-color: #85c93900;
+     border-color: transparent;
+     opacity: 1;
+     padding-left: 15px;
+ }
+
+
+  .btn-primary.disabled {
+     word-wrap: break-word;
+     font-size: 18px;
+     font-weight: 700;
+     margin: 0;
+     display: inline-block;
+     max-width: 300px;
+  }
+
 
 
 /* CKEDITOR */
