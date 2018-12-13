@@ -1680,6 +1680,7 @@ border-radius: 25px 25px 25px 25px;
     z-index: 0;
     font-weight: bold;
     color: #1A68B3;
+    font-family: HelveticaRoundedLTStd-Bd;
 }
 
 #actividad .content .cke_contents .bck-ol-10 li:before, 
