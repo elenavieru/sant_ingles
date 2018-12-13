@@ -107,6 +107,7 @@
       src: url('fonts/ZapfDingbats.ttf');
     }
 
+
 body {
     font-family: HelveticaNeueLTStd-Lt;
     font-size: 1.8rem;
@@ -1444,10 +1445,12 @@ text-transform: uppercase;
     border-radius: 20%;
     font-weight: 700;
 }
+
+
 /*enfasis gris enunciado actividades*/
 .bck-gris {
     color: #7595a8;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
 }
 
 .bck-fondoazul {
@@ -3280,6 +3283,4 @@ font-size: 2.5rem;
    font-size: 16px;
  margin-top: 15px;
 }
-
-
 }
