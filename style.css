@@ -889,6 +889,7 @@ background-repeat: no-repeat;
 background-size: contain;
 left: 0px;
 }
+
 /*titulo rojo = marcador science lab*/
 
 .bck-title16 {
@@ -932,6 +933,7 @@ padding: 44px;
 background-repeat: no-repeat;
 background-size: contain;
 left: 0px;
+top: -6px;
 }
 
 
