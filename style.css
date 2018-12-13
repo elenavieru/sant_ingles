@@ -879,6 +879,7 @@ content: "\f063";
     margin-left: 100px;
     margin-bottom: 50px;
     text-align: left;
+    font-family: HelveticaRoundedLTStd-Bd;
 }
 
 .bck-title11:before {
@@ -889,6 +890,7 @@ content: "\f063";
     background-repeat: no-repeat;
     background-size: contain;
     left: 0px;
+    top: -7px;
 }
 
 /*titulo rojo = marcador science lab*/
