@@ -86,6 +86,7 @@
 				
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
 				{ name: 'Caja Gris', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
+				{ name: 'Caja BordAzul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-7' } },
 				{ name: 'Caja blanca', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-14' } },
 				{ name: 'Caja flotante', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-3' } },
 				{ name: 'Caja Activaverde', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-4' } },
@@ -96,7 +97,6 @@
 				{ name: 'Caja queazul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-19' } },
 				{ name: 'Caja quemorado', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-20' } },
 				{ name: 'Caja querojo', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-21' } },
-				{ name: 'Caja materiales', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-7' } },
 				{ name: 'Caja comprensión', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-8' } },
 				{ name: 'Caja resumen naranja', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-9' } },
                                 { name: 'Caja saber más', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-10' } },
