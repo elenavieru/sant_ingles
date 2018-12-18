@@ -2482,28 +2482,23 @@ border-radius: 20px 0px 20px 20px;
 padding: 20px 20px 10px 20px;
 }
 
-/*caja resumen naranja = caja linea discontinua naranja*/
+/*caja naranja*/
 
 .bck-box.bck-box-9 .bck-title {
+    background-color: #fff;
+    padding: 10px 20px;
+}
+
+.bck-box.bck-box-9 .bck-content {
     background-color: #fffdec;
     color: #59595a;
     font-weight: 500;
     text-align: left;
     padding: 10px 10px 10px 20px;
     margin-top: 20px;
-    border-radius: 0px 0px 0px 0px;
     font-size: 1.5rem;
     letter-spacing: 1px;
-    border: 2px #f9b200 dashed;   
-    width: fit-content; 
-}
-
-.bck-box.bck-box-9 .bck-content {
-    background-color: #fff;
-    border-radius: 0px 0px 20px 20px;
-    padding: 10px 20px 10px 20px;
-    font-size: 1.8rem;
-    width: fit-content;
+    border: 2px dashed #f9b200; 
 }
 
 /*caja saber más*/
