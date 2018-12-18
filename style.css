@@ -2094,33 +2094,22 @@ padding-top: 2px;
    
 }
 
-/*caja 2 marron*/
+/*caja 2 gris*/
 
 .bck-box.bck-box-2 .bck-title {
-color: #333;
-border-radius: 20px 20px 20px 20px;
-margin-top: 30px;
-text-align: left;
-letter-spacing: 1px;
-border: 2px dashed #b7b7b7;
-width: fit-content;
-padding: 20px;
+    padding: 20px;
 }
-
-/*.bck-box.bck-box-2 .bck-title p{
-    font-size: 2rem;
-    border-bottom: 2px solid #ffffff;
-    padding-left: 30px;
-    padding-top: 5px;
-    margin-top: -30px;
-}*/
 
 
 .bck-box.bck-box-2 .bck-content {
-    background-color: #fff;
-    padding: 20px 40px 20px 20px;
     color: #333;
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 30px;
+    text-align: left;
+    letter-spacing: 1px;
+    border: 2px dashed #b7b7b7;
     width: fit-content;
+    padding: 20px;
 }
 
 
