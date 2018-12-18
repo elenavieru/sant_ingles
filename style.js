@@ -45,7 +45,7 @@
 				
 				
 							
-
+				{ name: 'Énfasis Gris', element: 'span', attributes: { 'class': 'bck-gris'} },
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
 				{ name: 'Énfasis Naranja', element: 'span', attributes: { 'class': 'bck-enfasis-naranja'} },
 				{ name: 'Versalitas', element: 'span', attributes: { 'class': 'bck-versalitas'} },
@@ -58,7 +58,6 @@
 				{ name: 'azul claro', element: 'span', attributes: { 'class': 'bck-azulclaro'} },
 				{ name: 'verde desafio', element: 'span', attributes: { 'class': 'bck-verdedesafio'} },
 				{ name: 'sombreado', element: 'span', attributes: { 'class': 'bck-sombreado'} },
-				{ name: 'enfasis gris', element: 'span', attributes: { 'class': 'bck-gris'} },
 				{ name: 'Explora-aprende azul', element: 'span', attributes: { 'class': 'bck-fondoazul'} },
 				
 				{ name: 'Lista Ordenada', element: 'ol', attributes: { 'class': 'bck-ol' } },
