@@ -12,6 +12,7 @@
 			name: 'santillana_ingles',
 			styles: [
 				
+				{ name: 'Objetivo', element: 'h3', attributes: { 'class': 'bck-title9'} },
 				{ name: 'Flecha verde', element: 'h3', attributes: { 'class': 'bck-title4'} },
 				{ name: 'Flecha morado', element: 'h3', attributes: { 'class': 'bck-title13'} },
 				{ name: 'Flecha rojo', element: 'h3', attributes: { 'class': 'bck-title14'} },
@@ -28,7 +29,6 @@
 				{ name: 'paso morado', element: 'h3', attributes: { 'class': 'bck-title32'} },
 				{ name: 'paso verde', element: 'h3', attributes: { 'class': 'bck-title33'} },
 				{ name: 'paso azul', element: 'h3', attributes: { 'class': 'bck-title34'} },
-				{ name: 'pie de foto', element: 'h3', attributes: { 'class': 'bck-title9'} },
 				{ name: 'Saber hacer', element: 'h3', attributes: { 'class': 'bck-title24'} },
 				{ name: 'Saber hacer2', element: 'h3', attributes: { 'class': 'bck-title25'} },
 				{ name: 'revisa-naranja1', element: 'h3', attributes: { 'class': 'bck-title10'} },
