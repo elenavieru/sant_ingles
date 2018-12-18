@@ -13,10 +13,6 @@
 			styles: [
 				
 				{ name: 'Objetivo', element: 'h3', attributes: { 'class': 'bck-title9'} },
-				{ name: 'Flecha verde', element: 'h3', attributes: { 'class': 'bck-title4'} },
-				{ name: 'Flecha morado', element: 'h3', attributes: { 'class': 'bck-title13'} },
-				{ name: 'Flecha rojo', element: 'h3', attributes: { 'class': 'bck-title14'} },
-				{ name: 'Flecha azul', element: 'h3', attributes: { 'class': 'bck-title15'} },
 				{ name: 'titulo verde', element: 'h3', attributes: { 'class': 'bck-title5'} },
 				{ name: 'titulo morado', element: 'h3', attributes: { 'class': 'bck-title11'} },
 				{ name: 'titulo rojo', element: 'h3', attributes: { 'class': 'bck-title16'} },
