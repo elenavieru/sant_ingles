@@ -2568,6 +2568,12 @@ padding: 20px 20px 10px 20px;
 /*caja azul = caja gris bordes redondeados*/
 
 .bck-box.bck-box-12 .bck-title {
+    background-color: #ffffff;
+    padding: 5px 10px 10px 10px;
+    width: fit-content;
+}
+
+.bck-box.bck-box-12 .bck-content {
     background-color: #fff;
     color: #333;
     font-weight: 500;
@@ -2576,13 +2582,6 @@ padding: 20px 20px 10px 20px;
     border-radius: 20px 20px 20px 20px;
     letter-spacing: 1px;
     border: 1px solid #a7bbc9;
-    width: fit-content;
-}
-
-.bck-box.bck-box-12 .bck-content {
-    background-color: #ffffff;
-    padding: 5px 10px 10px 10px;
-    width: fit-content;
 }
 
 /*caja 13 formacion ciervo*/
