@@ -2581,6 +2581,7 @@ padding: 20px 20px 10px 20px;
     border-radius: 20px 20px 20px 20px;
     letter-spacing: 1px;
     border: 1px solid #a7bbc9;
+    width: fit-content;
 }
 
 /*caja 13 formacion ciervo*/
