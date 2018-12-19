@@ -61,23 +61,24 @@
 				{ name: 'Explora-aprende azul', element: 'span', attributes: { 'class': 'bck-fondoazul'} },
 				
 				{ name: 'Lista Ordenada', element: 'ol', attributes: { 'class': 'bck-ol' } },
+				{ name: 'Lista Azul Math', element: 'ol', attributes: { 'class': 'bck-ol-10' } },
 				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
 				{ name: 'Lista naranja', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
 				{ name: 'Lista verde', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
 				{ name: 'Lista morado', element: 'ol', attributes: { 'class': 'bck-ol-7' } },
 				{ name: 'Lista roja', element: 'ol', attributes: { 'class': 'bck-ol-9' } },
-				{ name: 'Lista azulclaro', element: 'ol', attributes: { 'class': 'bck-ol-10' } },
 				{ name: 'Lista letra verde', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
 				{ name: 'Lista letra naranja', element: 'ol', attributes: { 'class': 'bck-ol-6' } },
 				{ name: 'Lista letra morado', element: 'ol', attributes: { 'class': 'bck-ol-8' } },
 				
-				
+
+				{ name: 'Lista Letra Math', element: 'ul', attributes: { 'class': 'bck-ul-6'} },
 				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul'} },
 				{ name: 'Lista Des verde', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
 				{ name: 'Lista Desordenada 3', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
 				{ name: 'Lista Des amarilla', element: 'ul', attributes: { 'class': 'bck-ul-4'} },
 				{ name: 'Lista Des blanca', element: 'ul', attributes: { 'class': 'bck-ul-5'} },
-				{ name: 'Lista Des morado', element: 'ul', attributes: { 'class': 'bck-ul-6'} },
+				
 				
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
 				{ name: 'Caja Gris', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
