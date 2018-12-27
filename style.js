@@ -118,9 +118,9 @@
 				{ name: 'Desplegable', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_ingles-dropdown' } },
 				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_ingles-dropdown-2' } },
 				
-				{ name: 'Icono Step 1', element: 'span', attributes: { 'class': 'icon icon-antes' } },
-				{ name: 'Icono Step 2', element: 'span', attributes: { 'class': 'icon icon-durante' } },
-				{ name: 'Icono Step 3', element: 'span', attributes: { 'class': 'icon icon-despues' } }
+				{ name: 'Icono Step 1', element: 'span', attributes: { 'class': 'icon icon-1' } },
+				{ name: 'Icono Step 2', element: 'span', attributes: { 'class': 'icon icon-2' } },
+				{ name: 'Icono Step 3', element: 'span', attributes: { 'class': 'icon icon-3' } }
 
 
 			]
