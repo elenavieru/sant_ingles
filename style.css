@@ -1153,7 +1153,7 @@ h6 {
     font-family: HelveticaRoundedLTStd-Bd;
 }
 
-/*revisa naranja1*/
+/*titulo workshop*/
 .bck-title10 {
     color: #f7a800;
     font-size: 4rem;
@@ -1166,7 +1166,7 @@ h6 {
 
 .bck-title10:before {
     content: ' ';
-    background-image: url(https://admin.blinklearning.com/useruploads/r/a/109536796/activity_other_imported/marcador_workshop_morado.png);
+    background-image: url(imagenes_ingles/marcador_workshop_morado.png);
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
