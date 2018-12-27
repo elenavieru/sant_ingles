@@ -18,6 +18,8 @@
 				{ name: 'Título morado Social', element: 'h3', attributes: { 'class': 'bck-title11'} },
 				{ name: 'Título 2 morado Social', element: 'h3', attributes: { 'class': 'bck-title3'} },
 				{ name: 'Título 3 naranja Social', element: 'h3', attributes: { 'class': 'bck-title25'} },
+				{ name: 'Título Actividades Social', element: 'h3', attributes: { 'class': 'bck-title36'} },
+				{ name: 'Título Workshop', element: 'h3', attributes: { 'class': 'bck-title10'} },
 				{ name: 'titulo rojo', element: 'h3', attributes: { 'class': 'bck-title16'} },
 				{ name: 'titulo gris', element: 'h3', attributes: { 'class': 'bck-title8'} },
 				{ name: 'explora', element: 'h3', attributes: { 'class': 'bck-title6'} },
@@ -27,7 +29,6 @@
 				{ name: 'paso verde', element: 'h3', attributes: { 'class': 'bck-title33'} },
 				{ name: 'paso azul', element: 'h3', attributes: { 'class': 'bck-title34'} },
 				{ name: 'Saber hacer', element: 'h3', attributes: { 'class': 'bck-title24'} },
-				{ name: 'revisa-naranja1', element: 'h3', attributes: { 'class': 'bck-title10'} },
 				{ name: 'revisa-naranja2', element: 'h3', attributes: { 'class': 'bck-title18'} },
 				{ name: 'revisa-azul', element: 'h3', attributes: { 'class': 'bck-title19'} },
 				{ name: 'demuestra-verde', element: 'h3', attributes: { 'class': 'bck-title20'} },
@@ -41,7 +42,7 @@
 				{ name: 'form ciervoybuitre', element: 'h3', attributes: { 'class': 'bck-title28'} },
 				{ name: 'Pasado al presente', element: 'h3', attributes: { 'class': 'bck-title29'} },
 				{ name: 'epa', element: 'h3', attributes: { 'class': 'bck-title30'} },
-				{ name: 'Titulo Actividades', element: 'h3', attributes: { 'class': 'bck-title36'} },
+				
 				
 				
 							
