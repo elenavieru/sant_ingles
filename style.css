@@ -2790,10 +2790,6 @@ border: 1px solid #ee7f00;
     padding: 10px;
 }
 
-table td.bck-td-1 {
-    background-color: #a1c037;
-}
-
 /*tabla y celda verde*/
 
 .bck-table-2 {
@@ -2826,11 +2822,9 @@ td {
 
 /*celda 1*/
 .bck-td-1 {
-    color: #ffffff;
-    background: #a1c037;
-    border-right: 1px solid #ffffff;
-    text-align: center;
-    font-weight: 700;
+    background: #F89E54;
+    color: #fff;
+    font-weight: 600;
 }
 
 /*celda azul*/
