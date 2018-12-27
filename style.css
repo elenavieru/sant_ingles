@@ -2763,19 +2763,19 @@ padding: 20px 20px 10px 20px;
     width: 150px;
 }
 
-/*icono Antes*/
+/*icono Step 1*/
 .item-container .icon-antes:before {
-background-image: url(imagenes/antesbuitretexto.png);
+background-image: url(imagenes_ingles/step_azulClaro.png);
 }
 
-/*icono Durante*/
+/*icono Step 2*/
 .item-container .icon-durante:before {
-background-image: url(imagenes/durantebuitretexto.png);
+background-image: url(imagenes_ingles/step_naranja.png);
 }
 
-/*icono Despues*/
+/*icono Step 3*/
 .item-container .icon-despues:before {
-background-image: url(imagenes/despuesbuitretexto.png);
+background-image: url(imagenes_ingles/step_rojo.png);
 }
 
 
