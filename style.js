@@ -64,13 +64,13 @@
 				{ name: 'Lista Ordenada', element: 'ol', attributes: { 'class': 'bck-ol' } },
 				{ name: 'Lista Azul Math', element: 'ol', attributes: { 'class': 'bck-ol-10' } },
 				{ name: 'Lista Letra Math', element: 'ol', attributes: { 'class': 'bck-ol-6' } },
+				{ name: 'Lista Morada Social', element: 'ol', attributes: { 'class': 'bck-ol-7' } },
+				{ name: 'Lista Letra Social', element: 'ol', attributes: { 'class': 'bck-ol-8' } },
 				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
 				{ name: 'Lista naranja', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
 				{ name: 'Lista verde', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
-				{ name: 'Lista morado', element: 'ol', attributes: { 'class': 'bck-ol-7' } },
 				{ name: 'Lista roja', element: 'ol', attributes: { 'class': 'bck-ol-9' } },
 				{ name: 'Lista letra verde', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
-				{ name: 'Lista letra morado', element: 'ol', attributes: { 'class': 'bck-ol-8' } },
 				
 
 				{ name: 'Lista Desordenada defecto', element: 'ul', attributes: { 'class': 'bck-ul-6'} },
