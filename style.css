@@ -2764,17 +2764,17 @@ padding: 20px 20px 10px 20px;
 }
 
 /*icono Step 1*/
-.item-container .icon-antes:before {
+.item-container .icon-1:before {
 background-image: url(imagenes_ingles/step_azulClaro.png);
 }
 
 /*icono Step 2*/
-.item-container .icon-durante:before {
+.item-container .icon-2:before {
 background-image: url(imagenes_ingles/step_naranja.png);
 }
 
 /*icono Step 3*/
-.item-container .icon-despues:before {
+.item-container .icon-3:before {
 background-image: url(imagenes_ingles/step_rojo.png);
 }
 
