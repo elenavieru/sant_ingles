@@ -56,11 +56,11 @@
 				{ name: 'Lista Letra Math', element: 'ol', attributes: { 'class': 'bck-ol-6' } },
 				{ name: 'Lista Morada Social', element: 'ol', attributes: { 'class': 'bck-ol-7' } },
 				{ name: 'Lista Letra Social', element: 'ol', attributes: { 'class': 'bck-ol-8' } },
+				{ name: 'Lista Verde Science', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
+				{ name: 'Lista Letra Science', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
 				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
 				{ name: 'Lista naranja', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
-				{ name: 'Lista verde', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
 				{ name: 'Lista roja', element: 'ol', attributes: { 'class': 'bck-ol-9' } },
-				{ name: 'Lista letra verde', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
 				
 
 				{ name: 'Lista Desordenada defecto', element: 'ul', attributes: { 'class': 'bck-ul-6'} },
@@ -102,8 +102,7 @@
 				{ name: 'Tabla azul', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-3'} },
 				{ name: 'Celda naranja', element: 'td', attributes: { 'class': 'bck-td-1'} },
 				{ name: 'Celda azul', element: 'td', attributes: { 'class': 'bck-td-2' } },
-				{ name: 'Celda azul-claro', element: 'td', attributes: { 'class': 'bck-td-3' } },
-				{ name: 'Celd borde abajo', element: 'td', attributes: { 'class': 'bck-td-4' } },
+				{ name: 'Celda verde', element: 'td', attributes: { 'class': 'bck-td-3' } },
 
 				{ name: 'Desplegable', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_ingles-dropdown' } },
 				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_ingles-dropdown-2' } },
