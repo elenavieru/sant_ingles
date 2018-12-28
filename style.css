@@ -897,17 +897,16 @@ content: "\f063";
 /*titulo rojo = marcador science lab*/
 
 .bck-title16 {
-    font-size: 40px;
-    font-weight: 600;
+    font-size: 40rem;
     color: #009641;
     margin-left: 100px;
     margin-bottom: 50px;
     line-height: 3.5rem;
-    text-align: left;
+    font-family: HelveticaRoundedLTStd-Bd;
 }
 
 .bck-title16:before {
-    background-image: url(https://admin.blinklearning.com/useruploads/r/a/109518606/activity_other_imported/marcador_verde_scienceLab.png);
+    background-image: url(imagenes_ingles /marcador_verde_scienceLab.png);
     content: ' ';
     position: absolute;
     padding: 44px;
@@ -959,13 +958,13 @@ h6 {
 
 
 
-/*titulo gris = titulo2 science gris*/
+/*Título 2 gris Science = titulo2 science gris*/
 
 .bck-title8 {
     font-size: 2.8rem;
-    font-weight: bold;
-    color: #646567;
+    color: #636466;
     text-align: center;
+    font-family: HelveticaRoundedLTStd-Bd;
 }
 
 /*Objetivo*/
@@ -1253,6 +1252,7 @@ text-transform: uppercase;
 
 
 /*enfasis gris enunciado actividades*/
+
 .bck-gris {
     color: #7595a8;
     font-size: 1.5rem;
