@@ -2250,23 +2250,21 @@ padding-top: 2px;
 /*caja comprension = caja investigate!*/
 
 .bck-box.bck-box-8 .bck-title {
-background-color: rgba(150,193,31,1);
-color: #ffff;
+background-color: #8DC63F;
+color: #fff;
 font-weight: bold;
-text-align: right;
-padding: 10px 10px 5px 10px;
+padding: 5px 20px 0px 20px;
 border-radius: 20px 20px 0px 0px;
 margin-left: auto; 
 font-size: 2rem;
-letter-spacing: 1px;
 width: fit-content;
 }
 
 .bck-box.bck-box-8 .bck-content {
 background-color: #fff;
-border: 3px solid rgba(150,193,31,1);
+border: 3px solid #8DC63F;
 border-radius: 20px 0px 20px 20px;
-padding: 20px 20px 10px 20px;
+padding: 15px;
 }
 
 /*caja naranja*/
@@ -3082,4 +3080,6 @@ font-size: 2.5rem;
    font-size: 16px;
  margin-top: 15px;
 }
+
+
 }
