@@ -1022,155 +1022,6 @@ h6 {
     padding: 44px;
 }
 
-/*revisa naranja2*/
-.bck-title18 {
-    background-color: #FF9B52;
-    color: #ffffff;
-    border-radius: 0px 0px 20px 0px;
-    padding: 7px 20px 7px 20px;
-    width: fit-content;
-    font-size: 2.4rem;
-}
-
-/*revisa azul*/
-.bck-title19 {
-    background-color: #72a5d9;
-    color: #ffffff;
-    border-radius: 0px 0px 15px 0px;
-    padding: 7px 20px 7px 20px;
-    width: fit-content;
-    font-size: 2.4rem;
-    font-weight: 600;
-}
-
-/*demuestra verde*/
-.bck-title20 {
-    background-color: #3aaa35;
-    color: #ffffff;
-    border-radius: 0px 0px 10px 0px;
-    padding: 7px 20px 7px 20px;
-    width: fit-content;
-    font-size: 2.4rem;
-    font-weight: 600;
-}
-
-/*demuestra naranja*/
-.bck-title21 {
-    background-color: #f8a800;
-    color: #ffffff;
-    border-radius: 0px 0px 10px 0px;
-    padding: 7px 20px 7px 20px;
-    width: fit-content;
-    font-size: 2.4rem;
-    font-weight: 600;
-}
-
-/*demuestra azul*/
-.bck-title22 {
-    background-color: #007bc2;
-    color: #ffffff;
-    border-radius: 15px 15px 0px 15px;
-    padding: 7px 20px 7px 20px;
-    width: fit-content;
-    font-size: 2.4rem;
-    font-weight: 600;
-}
-
-
-
-/*relaciona*/
-.bck-title26 {
-    background: #19763a;
-    width: fit-content;
-    padding: 10px 18px 8px 19px;
-    color: #fff;
-    border-radius: 25px 25px 0px 0px;
-    font-size: 2.4rem;
-    letter-spacing: 2px;
-}
-
-
-
-
-
-
-/*titulo form-ciervoybuitre*/
-
-.bck-title28 {
-    background-image: url(imagenes/formacion-completo.jpg);
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-    border-left: 30px solid #9e61a4;
-    border-top: 50px solid #9e61a4;
-    border-right: 30px solid #9e61a4;
-    text-align: center;
-    padding: 15px;
-    font-size: 1.6rem;
-}
-.bck-title28:before {
-    content: " ";
-    background: url(imagenes/cervatillo4.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding: 35px;
-    z-index: 100;
-    position: absolute;
-    left: 10px;
-    margin-top: -34px;
-}
-
-.bck-title28:after {
-    content: " ";
-    background: url(imagenes/buitre2.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding: 48px;
-    z-index: 100;
-    position: absolute;
-    right: -5px;
-    margin-top: -53px;
-    -moz-transform: rotate(-14deg);
-    -webkit-transform: rotate(-14deg);
-    -o-transform: rotate(-14deg);
-    -ms-transform: rotate(-14deg);
-    transform: rotate(-14deg);
-}
-
-/*pasado al presente*/
-.bck-title29 {
-    border-left: 30px solid #9e61a4;
-    border-top: 50px solid #9e61a4;
-    border-right: 30px solid #9e61a4;
-    background-color: #ffffff;
-    text-align: center;
-    color: #9e61a4;
-    padding: 8px 20px 1px 20px;
-    font-size: 3.6rem;
-    font-weight: 700;
-}
-
-/*titulo EPA*/
-.bck-title30 {
-    background-image: url(imagenes/epa.png);
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-    text-align: center;
-    width: 90%;
-    padding: 20px;
-}
-
-.bck-title31 {
-    background: #3aaa35;
-    width: fit-content;
-    padding: 10px 18px 8px 19px;
-    color: #fff;
-    border-radius: 25px 25px 0px 0px;
-    font-size: 2.4rem;
-    letter-spacing: 2px;
-}
-
 /*titulo Actividades = titulo 3 Actividades social*/
 
 .bck-title36 {
@@ -1256,16 +1107,6 @@ text-transform: uppercase;
 .bck-gris {
     color: #7595a8;
     font-size: 1.5rem;
-}
-
-.bck-fondoazul {
-    background-color: #72a5d9;
-    border-radius: 20px 20px 0px 20px;
-    color: #fff;
-    padding: 10px 14px 10px 14px;
-    font-weight: bold;
-    letter-spacing: 1px;
-    font-size: 2.8rem;
 }
 
 
@@ -2965,18 +2806,6 @@ td {
 
 .bck-title {
     font-size: 2rem;
-}
-
-.bck-title29 {
-    border-left: 10px solid #9e61a4;
-    border-top: 20px solid #9e61a4;
-    border-right: 10px solid #9e61a4;
-    background-color: #ffffff;
-    text-align: center;
-    color: #9e61a4;
-    padding: 8px 20px 1px 20px;
-    font-size: 3rem;
-    font-weight: 700;
 }
 
 
