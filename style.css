@@ -1592,7 +1592,6 @@ padding-top: 2px;
 }
 
 
-
 #actividad .content .cke_contents .bck-ol-6 li,
 #actividad .content .texto_curso .bck-ol-6 li,
 #actividad .popover-content .bck-ol-6 li, 
@@ -2646,8 +2645,8 @@ td {
 
 /*celda azul claro*/
 .bck-td-3 {
-    color: #ffffff;
-    background: #d8e2f5;
+    color: #333;
+    background: #F1F7E8;
     text-align: center;
     font-weight: 700;
 }
