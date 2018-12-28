@@ -22,20 +22,8 @@
 				{ name: 'Título Workshop', element: 'h3', attributes: { 'class': 'bck-title10'} },
 				{ name: 'Título 2 gris Science', element: 'h3', attributes: { 'class': 'bck-title8'} },
 				{ name: 'Título Science Lab', element: 'h3', attributes: { 'class': 'bck-title16'} },
-				{ name: 'revisa-naranja2', element: 'h3', attributes: { 'class': 'bck-title18'} },
-				{ name: 'revisa-azul', element: 'h3', attributes: { 'class': 'bck-title19'} },
-				{ name: 'demuestra-verde', element: 'h3', attributes: { 'class': 'bck-title20'} },
-				{ name: 'demuestra-naranja', element: 'h3', attributes: { 'class': 'bck-title21'} },
-				{ name: 'demuestra-azul', element: 'h3', attributes: { 'class': 'bck-title22'} },
-				{ name: 'relaciona', element: 'h3', attributes: { 'class': 'bck-title26'} },
-				{ name: 'fondo verde', element: 'h3', attributes: { 'class': 'bck-title31'} },
-				{ name: 'form ciervoybuitre', element: 'h3', attributes: { 'class': 'bck-title28'} },
-				{ name: 'Pasado al presente', element: 'h3', attributes: { 'class': 'bck-title29'} },
-				{ name: 'epa', element: 'h3', attributes: { 'class': 'bck-title30'} },
-				
-				
-				
-							
+
+										
 				{ name: 'Énfasis Gris', element: 'span', attributes: { 'class': 'bck-gris'} },
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
 				{ name: 'Énfasis Naranja', element: 'span', attributes: { 'class': 'bck-enfasis-naranja'} },
