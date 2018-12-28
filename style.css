@@ -897,7 +897,7 @@ content: "\f063";
 /*titulo rojo = marcador science lab*/
 
 .bck-title16 {
-    font-size: 40rem;
+    font-size: 4rem;
     color: #009641;
     margin-left: 100px;
     margin-bottom: 50px;
@@ -906,7 +906,7 @@ content: "\f063";
 }
 
 .bck-title16:before {
-    background-image: url(imagenes_ingles /marcador_verde_scienceLab.png);
+    background-image: url(imagenes_ingles/marcador_verde_scienceLab.png);
     content: ' ';
     position: absolute;
     padding: 44px;
