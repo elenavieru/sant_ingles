@@ -54,8 +54,8 @@
 				{ name: 'Lista Desordenada defecto', element: 'ul', attributes: { 'class': 'bck-ul-6'} },
 				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul'} },
 				{ name: 'Lista Des verde', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
+				{ name: 'Lista Des morada', element: 'ul', attributes: { 'class': 'bck-ul-4'} },
 				{ name: 'Lista Desordenada 3', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
-				{ name: 'Lista Des amarilla', element: 'ul', attributes: { 'class': 'bck-ul-4'} },
 				{ name: 'Lista Des blanca', element: 'ul', attributes: { 'class': 'bck-ul-5'} },
 				
 				
