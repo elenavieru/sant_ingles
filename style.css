@@ -2537,10 +2537,9 @@ td {
 
 /*celda azul*/
 .bck-td-2 {
-    color: #ffffff;
-    background: #4492cf;
-    text-align: center;
-    font-weight: 700;
+    color: #333;
+    background: #CDEBF0;
+    font-weight: 500;
 }
 
 /*celda azul claro*/
