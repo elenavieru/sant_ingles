@@ -99,6 +99,7 @@
 				{ name: 'Math Skills', element: 'span', attributes: { 'class': 'icon icon-10'} },
 				{ name: 'Social responsibility', element: 'span', attributes: { 'class': 'icon icon-11'} },
 				{ name: 'Connect', element: 'span', attributes: { 'class': 'icon icon-12'} },
+				{ name: 'Writing Skills', element: 'span', attributes: { 'class': 'icon icon-13'} },
 				{ name: 'Icono Step 1', element: 'span', attributes: { 'class': 'icon icon-1' } },
 				{ name: 'Icono Step 2', element: 'span', attributes: { 'class': 'icon icon-2' } },
 				{ name: 'Icono Step 3', element: 'span', attributes: { 'class': 'icon icon-3' } },
