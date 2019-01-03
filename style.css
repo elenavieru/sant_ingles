@@ -2459,7 +2459,7 @@ background-image: url(imagenes_ingles/mathdaily.png);
     display: inline-block;
     vertical-align: middle;
     width: 100%;
-    padding: 30px;
+    padding: 28px;
 }
 
 .item-container .icon-10:before {
@@ -2478,7 +2478,7 @@ background-image: url(imagenes_ingles/mathskills.png);
     display: inline-block;
     vertical-align: middle;
     width: 100%;
-    padding: 30px;
+    padding: 28px;
 }
 
 .item-container .icon-11:before {
@@ -3007,5 +3007,6 @@ font-size: 2.5rem;
    font-size: 16px;
  margin-top: 15px;
 }
+
 
 }
