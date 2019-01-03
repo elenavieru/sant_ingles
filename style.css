@@ -1717,16 +1717,6 @@ padding-top: 2px;
     padding-left: 50px;
 }
 
-
-
-.bck-box.bck-box-1 .bck-title {
-   
-}
-
-.bck-box.bck-box-1 {
-   
-}
-
 /*caja 2 gris*/
 
 .bck-box.bck-box-2 .bck-title {
@@ -1742,7 +1732,7 @@ padding-top: 2px;
     letter-spacing: 1px;
     border: 2px dashed #b7b7b7;
     width: fit-content;
-    padding: 20px;
+    padding: 10px 20px;
 }
 
 
