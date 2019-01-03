@@ -2447,6 +2447,45 @@ background-image: url(imagenes_ingles/step_moradoClaro.png);
 background-image: url(imagenes_ingles/mathdaily.png);
 }
 
+/*Math Skills*/
+.item-container .icon-10:before {
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: left;
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+    padding: 85px;
+}
+
+.item-container .icon-10:before {
+background-image: url(imagenes_ingles/mathskills.png);
+}
+
+/*Social responsibility*/
+.item-container .icon-11:before {
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: left;
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+    padding: 85px;
+}
+
+.item-container .icon-11:before {
+background-image: url(imagenes_ingles/socialresponsability.png);
+}
+
+
 
 /**TABLA**/
 
@@ -2931,5 +2970,6 @@ font-size: 2.5rem;
    font-size: 16px;
  margin-top: 15px;
 }
+
 
 }
