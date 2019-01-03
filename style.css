@@ -1760,7 +1760,8 @@ padding-top: 2px;
     position: absolute;
     padding: 0px 19px 27px 16px;
     background-image: url(imagenes_ingles/img.png);
-    left: 28px;
+    left: 30px;
+    margin-top: -10px;
     background-repeat: no-repeat;
     background-size: contain;
 }
