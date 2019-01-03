@@ -1751,8 +1751,18 @@ padding-top: 2px;
     background: #fff;
     text-align: left;
     font-size: 2rem;
-    padding: 40px 30px 0px 70px;
+    padding: 40px 20px 0px 70px;
     width: fit-content;
+}
+
+.bck-box.bck-box-14 .bck-title:before{
+    content: " ";
+    position: absolute;
+    padding: 0px 19px 27px 16px;
+    background-image: url(imagenes_ingles/img.png);
+    left: 28px;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 
