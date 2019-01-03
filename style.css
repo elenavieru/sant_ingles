@@ -2432,15 +2432,15 @@ background-image: url(imagenes_ingles/step_moradoClaro.png);
 .item-container .icon-9:before {
     content: "";
     background-repeat: no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
     background-size: contain;
-    background-position: center center;
+    background-position: left;
     display: inline-block;
     vertical-align: middle;
-    height: 45px;
-    width: 75px;
+    width: 100%;
+    padding: 85px;
 }
 
 .item-container .icon-9:before {
