@@ -1736,31 +1736,24 @@ padding-top: 2px;
 }
 
 
-/*caja blanca*/
+/*Caja work picture*/
+
+.bck-box.bck-box-14{
+    border: 4px solid #3A5978;
+    border-radius: 20px;
+    padding: 10px
+}
+
 
 .bck-box.bck-box-14 .bck-title {
-    color: #9e61a4;
+    color: #F05333;
     font-weight: 700;
-    border-radius: 20px 0px 0px 0px;
-    margin-top: 30px;
-    background-color: #ffffff;
+    margin-top: 2px;
     text-align: left;
-}
-
-.bck-box.bck-box-14 .bck-title p{
     font-size: 2rem;
-    border-bottom: 2px solid #9e61a4;
     padding-left: 30px;
-    padding-top: 5px;
-    margin-top: -30px;
-    letter-spacing: 1px;
-}
-
-
-.bck-box.bck-box-14 .bck-content {
-    background-color: #ffffff;
-    padding: 20px 40px 20px 20px;
-    color: #000000;
+    padding: 7px;
+    width: fit-content;
 }
 
 
