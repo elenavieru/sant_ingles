@@ -2523,6 +2523,25 @@ background-image: url(imagenes_ingles/connect.png);
 background-image: url(imagenes_ingles/writingskills.png);
 }
 
+/*Cultural*/
+.item-container .icon-14:before {
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: left;
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+    padding: 30px;
+}
+
+.item-container .icon-14:before {
+background-image: url(imagenes_ingles/cultural.png);
+}
+
 
 
 /**TABLA**/
