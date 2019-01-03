@@ -2485,6 +2485,25 @@ background-image: url(imagenes_ingles/mathskills.png);
 background-image: url(imagenes_ingles/socialresponsability.png);
 }
 
+/*Connect*/
+.item-container .icon-12:before {
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: left;
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+    padding: 30px;
+}
+
+.item-container .icon-12:before {
+background-image: url(santillana_ingles/imagenes_ingles/connect.png);
+}
+
 
 
 /**TABLA**/
