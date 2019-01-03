@@ -234,6 +234,7 @@ input, button, select, textarea {
 #actividad .workspace.ordenar .js-rank-item ul li:before {
     background-color: #87888a;
     border-radius: 50%;
+    margin-top: .5em;
 }
 
 #actividad .class_slide {
