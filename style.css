@@ -1034,12 +1034,12 @@ font-size: 1.9rem;
 text-transform: uppercase;
 }
 
-/*enfasis*/
+/*enfasis naranja*/
 
 
 .bck-enfasis {
     color: #9363A8;
-    font-weight: bold;
+    font-family: HelveticaNeueLTStd-Bd;
 }
 
 /*enfasis fondo naranja*/
@@ -2425,6 +2425,26 @@ background-image: url(imagenes_ingles/step_azulOscuro.png);
 /*icono Step 8*/
 .item-container .icon-8:before {
 background-image: url(imagenes_ingles/step_moradoClaro.png);
+}
+
+
+/*Math in daily*/
+.item-container .icon-9:before {
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: contain;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 45px;
+    width: 75px;
+}
+
+.item-container .icon-9:before {
+background-image: url(imagenes_ingles/mathdaily.png);
 }
 
 
