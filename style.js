@@ -14,6 +14,7 @@
 				
 				{ name: 'Objetivo', element: 'h3', attributes: { 'class': 'bck-title9'} },
 				{ name: 'Título azul Math', element: 'h3', attributes: { 'class': 'bck-title17'} },
+				{ name: 'Math in daily', element: 'span', attributes: { 'class': 'icon icon-9'} },
 				{ name: 'Título verde Science', element: 'h3', attributes: { 'class': 'bck-title5'} },
 				{ name: 'Título morado Social', element: 'h3', attributes: { 'class': 'bck-title11'} },
 				{ name: 'Título 2 morado Social', element: 'h3', attributes: { 'class': 'bck-title3'} },
@@ -25,7 +26,7 @@
 
 										
 				{ name: 'Énfasis Gris', element: 'span', attributes: { 'class': 'bck-gris'} },
-				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
+				{ name: 'Énfasis Naranja', element: 'span', attributes: { 'class': 'bck-enfasis'} },
 				{ name: 'Énfasis Naranja', element: 'span', attributes: { 'class': 'bck-enfasis-naranja'} },
 				{ name: 'Versalitas', element: 'span', attributes: { 'class': 'bck-versalitas'} },
 				{ name: 'verde', element: 'span', attributes: { 'class': 'bck-verde1'} },
