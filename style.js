@@ -14,7 +14,6 @@
 				
 				{ name: 'Objetivo', element: 'h3', attributes: { 'class': 'bck-title9'} },
 				{ name: 'Título azul Math', element: 'h3', attributes: { 'class': 'bck-title17'} },
-				{ name: 'Math in daily', element: 'span', attributes: { 'class': 'icon icon-9'} },
 				{ name: 'Título verde Science', element: 'h3', attributes: { 'class': 'bck-title5'} },
 				{ name: 'Título morado Social', element: 'h3', attributes: { 'class': 'bck-title11'} },
 				{ name: 'Título 2 morado Social', element: 'h3', attributes: { 'class': 'bck-title3'} },
@@ -96,6 +95,7 @@
 				{ name: 'Desplegable', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_ingles-dropdown' } },
 				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_ingles-dropdown-2' } },
 				
+				{ name: 'Math in daily', element: 'span', attributes: { 'class': 'icon icon-9'} },
 				{ name: 'Icono Step 1', element: 'span', attributes: { 'class': 'icon icon-1' } },
 				{ name: 'Icono Step 2', element: 'span', attributes: { 'class': 'icon icon-2' } },
 				{ name: 'Icono Step 3', element: 'span', attributes: { 'class': 'icon icon-3' } },
@@ -103,7 +103,6 @@
 				{ name: 'Icono Step 5', element: 'span', attributes: { 'class': 'icon icon-5' } },
 				{ name: 'Icono Step 6', element: 'span', attributes: { 'class': 'icon icon-6' } },
 				{ name: 'Icono Step 7', element: 'span', attributes: { 'class': 'icon icon-7' } },
-				{ name: 'Math in daily', element: 'span', attributes: { 'class': 'icon icon-9'} },
 				{ name: 'Icono Step 8', element: 'span', attributes: { 'class': 'icon icon-8' } }
 
 			]
