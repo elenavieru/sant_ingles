@@ -179,6 +179,7 @@ a:hover, a:active, a:focus {
 .zoom_flag_img {
     top: 20px;
 }
+
 /*HEADER*/
 
 
@@ -216,7 +217,7 @@ input, button, select, textarea {
 
 .content_type_clase_santillana_ingles #actividad .texto_curso li,
 .content_type_clase_santillana_ingles #actividad .workspace ul li li {
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
 
 .content_type_clase_santillana_ingles #actividad .texto_curso li:last-of-type,
@@ -1502,7 +1503,7 @@ padding-top: 2px;
     height: 6px;
     width: 6px;
     background-color: #87888a;
-    margin-top: 12px;
+    margin-top: 10px;
     margin-left: -15px;
     margin-right: 7px;
     margin-bottom: 2px;
