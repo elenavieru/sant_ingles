@@ -2497,7 +2497,7 @@ background-image: url(imagenes_ingles/socialresponsability.png);
     display: inline-block;
     vertical-align: middle;
     width: 100%;
-    padding: 30px;
+    padding: 35px;
 }
 
 .item-container .icon-12:before {
@@ -3007,6 +3007,5 @@ font-size: 2.5rem;
    font-size: 16px;
  margin-top: 15px;
 }
-
 
 }
