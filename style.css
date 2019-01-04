@@ -1,3 +1,42 @@
+
+/* Fonts */
+
+    @font-face {
+      font-family: HelveticaNeueLTStd-Lt;
+      src: url('fonts/HelveticaNeueLTStd-Lt.otf');
+    }
+
+    @font-face {
+      font-family: HelveticaNeueLTStd-Roman;
+      src: url('fonts/HelveticaNeueLTStd-Roman.otf');
+    }
+
+    @font-face {
+      font-family: HelveticaNeueLTStd-Bd;
+      src: url('fonts/HelveticaNeueLTStd-Bd.otf');
+    }
+
+    @font-face {
+      font-family: HelveticaNeueLTStd-Md;
+      src: url('fonts/HelveticaNeueLTStd-Md.otf');
+    }
+
+    @font-face {
+      font-family: HelveticaNeueLTStd-MdCn;
+      src: url('fonts/HelveticaNeueLTStd-MdCn.otf');
+    }
+
+    @font-face {
+      font-family: ZapfDingbats;
+      src: url('fonts/ZapfDingbats.ttf');
+    }
+
+
+    @font-face {
+      font-family: HelveticaRoundedLTStd-Bd;
+      src: url('fonts/HelveticaRoundedLTStd-Bd.otf');
+    }
+
 /*toc*/
 
 .pags{ 
@@ -73,45 +112,7 @@
      display: inline-block;
      max-width: 300px;
  }
-
-
-/* Fonts */
-
-    @font-face {
-      font-family: HelveticaNeueLTStd-Lt;
-      src: url('fonts/HelveticaNeueLTStd-Lt.otf');
-    }
-
-    @font-face {
-      font-family: HelveticaNeueLTStd-Roman;
-      src: url('fonts/HelveticaNeueLTStd-Roman.otf');
-    }
-
-    @font-face {
-      font-family: HelveticaNeueLTStd-Bd;
-      src: url('fonts/HelveticaNeueLTStd-Bd.otf');
-    }
-
-    @font-face {
-      font-family: HelveticaNeueLTStd-Md;
-      src: url('fonts/HelveticaNeueLTStd-Md.otf');
-    }
-
-    @font-face {
-      font-family: HelveticaNeueLTStd-MdCn;
-      src: url('fonts/HelveticaNeueLTStd-MdCn.otf');
-    }
-
-    @font-face {
-      font-family: ZapfDingbats;
-      src: url('fonts/ZapfDingbats.ttf');
-    }
-
-
-    @font-face {
-      font-family: HelveticaRoundedLTStd-Bd;
-      src: url('fonts/HelveticaRoundedLTStd-Bd.otf');
-    }
+    
 
 
 body {
@@ -1258,7 +1259,6 @@ background: -o-linear-gradient(left, rgba(0,150,65,1) 0%, rgba(150,193,31,1) 80%
 background: -ms-linear-gradient(left, rgba(0,150,65,1) 0%, rgba(150,193,31,1) 80%, rgba(150,193,31,1) 100%);
 background: linear-gradient(to right, rgba(0,150,65,1) 0%, rgba(150,193,31,1) 80%, rgba(150,193,31,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009641', endColorstr='#96c11f', GradientType=1 );
-/* background: #97bf0d; */
 width: 29px;
 height: 28px;
 line-height: unset;
@@ -1266,7 +1266,7 @@ text-align: center;
 margin-left: -35px;
 color: #fff;
 padding-left: 1px;
-padding-top: 1px;
+padding-top: 0px;
 border-radius: 25px;
 }
 
