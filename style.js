@@ -26,7 +26,7 @@
 										
 				{ name: 'Énfasis Gris', element: 'span', attributes: { 'class': 'bck-gris'} },
 				{ name: 'Énfasis Naranja', element: 'span', attributes: { 'class': 'bck-enfasis'} },
-				{ name: 'Énfasis Naranja', element: 'span', attributes: { 'class': 'bck-enfasis-naranja'} },
+				{ name: 'Énfasis Fondo', element: 'span', attributes: { 'class': 'bck-enfasis-naranja'} },
 				{ name: 'Versalitas', element: 'span', attributes: { 'class': 'bck-versalitas'} },
 				{ name: 'verde', element: 'span', attributes: { 'class': 'bck-verde1'} },
 				{ name: 'morado', element: 'span', attributes: { 'class': 'bck-morado'} },
