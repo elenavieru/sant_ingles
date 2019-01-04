@@ -726,11 +726,6 @@ body.is_app .santillana_ingles-navbar.ocultar {
     background-color: transparent;
 }
 
-/*titulos*/
-
-.bck-title {
-    letter-spacing: 1px;
-}
 
 /*flecha verde*/
 
@@ -1674,7 +1669,6 @@ padding-top: 2px;
     border-radius: 20px 20px 20px 20px;
     margin-top: 30px;
     text-align: left;
-    letter-spacing: 1px;
     border: 2px dashed #b7b7b7;
     width: fit-content;
     padding: 10px 20px;
@@ -1777,7 +1771,6 @@ padding-top: 2px;
     padding: 10px 10px 10px 20px;
     margin-top: 20px;
     font-size: 1.5rem;
-    letter-spacing: 1px;
     border: 2px dashed #f9b200; 
 }
 
