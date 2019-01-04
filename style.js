@@ -57,7 +57,7 @@
 				{ name: 'Caja Naranja', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-9' } },
 				{ name: 'Caja BordGris', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-12' } },
 				{ name: 'Caja Work Picture', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-14' } },
-				{ name: 'Caja 3', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-3' } },
+				{ name: 'Caja Investigate', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-3' } },
 				{ name: 'Caja 4', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-4' } },
 
 				
