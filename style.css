@@ -2246,16 +2246,6 @@ td {
 }
 
 
-@media only screen and (min-width: 768px) and (max-width: 1024px) {
-
-   .bck-box.bck-box-3 {
-   position: absolute;
-    top: 13%;
-    left: 50%;
-} 
-
-}
-
 @media screen and (max-width: 768px) {
 
     #actividad .carousel-inner .class_slide {
@@ -2300,11 +2290,6 @@ td {
 
 @media only screen and (min-width: 451px) and (max-width: 768px) {
 
-    .bck-box.bck-box-3 {
-    position: absolute;
-    top: 13%;
-    right: 25px;
-} 
 
 .content_type_clase_santillana_ingles .santillana_ingles-navbar {
     top: 88px;
@@ -2362,14 +2347,6 @@ td {
     display: none;
 }
 
-
-.bck-box.bck-box-3 {
-    width: 100% !important;
-    position: absolute;
-    left: 5px;
-    font-size: 14px;
-   top: 105%;
-}
 
 .content_type_clase_santillana_ingles #actividad .texto_curso li, 
 .content_type_clase_santillana_ingles #actividad .workspace ul li li,
