@@ -1620,7 +1620,6 @@ padding-top: 2px;
 
 
 
-
 /*Cajas*/
 .bck-box {
     max-width: 100%;
@@ -1636,16 +1635,6 @@ padding-top: 2px;
 .bck-box.center .bck-content {
     position: relative;
     font-size: 1.8rem;
-}
-
-.bck-box.left, img[style~="float:right"] {
-    float: left;
-    margin-right: 30px;
-}
-
-.bck-box.right, img[style~="float:left"] {
-    float: right;
-    margin-left: 30px;
 }
 
 .bck-box img {
@@ -1775,7 +1764,7 @@ padding-top: 2px;
 }
 
 
-/*caja azul = caja gris bordes redondeados*/
+/*caja gris bordes redondeados*/
 
 .bck-box.bck-box-12 .bck-title {
     background-color: #ffffff;
@@ -1790,41 +1779,6 @@ padding-top: 2px;
     border: 1px solid #a7bbc9;
     width: fit-content;
 }
-
-
-
-.bck-box.bck-box-24 .bck-title:before {
-    content: " ";
-    background: url(imagenes/cervatillo1.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding: 43px;
-    z-index: 100;
-    position: absolute;
-    left: 0;
-    margin-top: -48px;
-}
-
-
-.bck-box.bck-box-24 .bck-title:after {
-    content: " ";
-    background: url(imagenes/buitre1.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding: 50px;
-    z-index: 100;
-    position: absolute;
-    margin-top: -58px;
-    left: 80%;
-}
-
-
-.bck-box.bck-box-24 .bck-content {
-    background-color: #e8e3f0;
-    border-radius: 0px 0px 30px 0px;
-    padding: 10px 25px 10px 15px;
-}
-
 
 
 /**Iconos**/
