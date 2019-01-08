@@ -1758,7 +1758,7 @@ padding-top: 2px;
 
 /*caja 5*/
 
-.bck-box.bck-box-5 .bck-title:before {
+.bck-box.bck-box-10 .bck-title:before {
     content: " ";
     position: relative;
     padding: 7%;
@@ -1770,11 +1770,11 @@ padding-top: 2px;
     z-index: 999;
 }
 
-.bck-box.bck-box-5 .bck-title {
+.bck-box.bck-box-10 .bck-title {
     padding: 10px;
 }
 
-.bck-box.bck-box-5 .bck-content {
+.bck-box.bck-box-10 .bck-content {
     padding: 10px;
     background-color: #FFFAC2;
     border-radius: 50px;
