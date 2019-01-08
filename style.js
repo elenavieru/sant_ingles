@@ -58,7 +58,10 @@
 				{ name: 'Caja BordGris', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-12' } },
 				{ name: 'Caja Work Picture', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-14' } },
 				{ name: 'Caja Investigate', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-8' } },
-				{ name: 'Caja 4', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-4' } },
+				{ name: 'Semáforo Atención', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-4' } },
+				{ name: 'Semáforo Extrañado', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-5' } },
+				{ name: 'Semáforo Pensante', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-6' } },
+				{ name: 'Semáforo Saludo', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-3' } },
 
 				
 				{ name: 'Tabla naranja', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
