@@ -1737,7 +1737,7 @@ padding-top: 2px;
     content: " ";
     position: relative;
     padding: 20px;
-    background-color: red;
+    background-image: url(imagenes_ingles/semaforo_atencion.png);
 }
 
 .bck-box.bck-box-4 .bck-title {
