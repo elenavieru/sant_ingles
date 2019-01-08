@@ -1740,6 +1740,10 @@ padding-top: 2px;
     background-color: red;
 }
 
+.bck-box.bck-box-7 .bck-title {
+    padding: 10px;
+}
+
 .bck-box.bck-box-4 .bck-content {
     padding: 10px;
     background-color: #FFFAC2;
