@@ -1755,6 +1755,78 @@ padding-top: 2px;
     border-radius: 50px;
 }
 
+/*caja 5*/
+
+.bck-box.bck-box-5 .bck-title:before {
+    content: " ";
+    position: relative;
+    padding: 7%;
+    top: -35px;
+    background-image: url(imagenes_ingles/semaforo_extrañado.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    float: right;
+    z-index: 999;
+}
+
+.bck-box.bck-box-5 .bck-title {
+    padding: 10px;
+}
+
+.bck-box.bck-box-5 .bck-content {
+    padding: 10px;
+    background-color: #FFFAC2;
+    border-radius: 50px;
+}
+
+/*caja 6*/
+
+.bck-box.bck-box-6 .bck-title:before {
+    content: " ";
+    position: relative;
+    padding: 7%;
+    top: -35px;
+    background-image: url(imagenes_ingles/semaforo_pensante.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    float: right;
+    z-index: 999;
+}
+
+.bck-box.bck-box-6 .bck-title {
+    padding: 10px;
+}
+
+.bck-box.bck-box-6 .bck-content {
+    padding: 10px;
+    background-color: #FFFAC2;
+    border-radius: 50px;
+}
+
+/*caja 3*/
+
+.bck-box.bck-box-3 .bck-title:before {
+    content: " ";
+    position: relative;
+    padding: 7%;
+    top: -35px;
+    background-image: url(imagenes_ingles/semaforo_saludo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    float: right;
+    z-index: 999;
+}
+
+.bck-box.bck-box-3 .bck-title {
+    padding: 10px;
+}
+
+.bck-box.bck-box-3 .bck-content {
+    padding: 10px;
+    background-color: #FFFAC2;
+    border-radius: 50px;
+}
+
 
 /*caja border azul*/
 
