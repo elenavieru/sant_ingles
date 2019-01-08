@@ -1148,6 +1148,70 @@ text-transform: uppercase;
     text-align: left;
 }
 
+/*lista morada*/
+#actividad .content .cke_contents .bck-ol-13,
+#actividad .content .texto_curso .bck-ol-13,
+#actividad .content .workspace ol li .bck-ol-13 {
+    list-style-type: none;
+    counter-reset: bck-li-counter;
+}
+
+#actividad .content .texto_curso .bck-ol-13 li,
+#actividad .content .cke_contents .bck-ol-13 li,
+#actividad .popover-content .bck-ol-13 li,
+#actividad .content .workspace ol li .bck-ol-13 li {
+    position: relative;
+    z-index: 0;
+}
+
+#actividad .content .cke_contents .bck-ol-13 li:before,
+#actividad .content .texto_curso ol.bck-ol-13 li:before,
+#actividad .popover-content ol.bck-ol-13 li:before,
+#actividad .content .workspace ol li .bck-ol-13 li:before {
+    content: counter(bck-li-counter)".";
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    margin-left: -34px;
+    color: #1F90B5;
+    font-size: 1.8rem;
+}
+
+
+
+
+/*lista morada*/
+#actividad .content .cke_contents .bck-ol-12,
+#actividad .content .texto_curso .bck-ol-12,
+#actividad .content .workspace ol li .bck-ol-12 {
+    list-style-type: none;
+    counter-reset: bck-li-counter;
+}
+
+#actividad .content .texto_curso .bck-ol-12 li,
+#actividad .content .cke_contents .bck-ol-12 li,
+#actividad .popover-content .bck-ol-12 li,
+#actividad .content .workspace ol li .bck-ol-12 li {
+    position: relative;
+    z-index: 0;
+}
+
+#actividad .content .cke_contents .bck-ol-12 li:before,
+#actividad .content .texto_curso ol.bck-ol-12 li:before,
+#actividad .popover-content ol.bck-ol-12 li:before,
+#actividad .content .workspace ol li .bck-ol-12 li:before {
+    content: counter(bck-li-counter)".";
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    margin-left: -34px;
+    color: #1F90B5;
+    font-size: 1.8rem;
+}
+
+
+
+
 /*lista azul*/
 #actividad .content .cke_contents .bck-ol-11,
 #actividad .content .texto_curso .bck-ol-11,
