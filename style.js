@@ -59,7 +59,7 @@
 				{ name: 'Caja Work Picture', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-14' } },
 				{ name: 'Caja Investigate', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-8' } },
 				{ name: 'Semáforo Atención', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-4' } },
-				{ name: 'Semáforo Extrañado', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-5' } },
+				{ name: 'Semáforo Extrañado', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-10' } },
 				{ name: 'Semáforo Pensante', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-6' } },
 				{ name: 'Semáforo Saludo', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-3' } },
 
