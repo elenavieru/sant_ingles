@@ -1733,11 +1733,14 @@ padding-top: 2px;
 
 /*caja 4 */
 
+.bck-box.bck-box-7 .bck-title {
+
+}
 
 .bck-box.bck-box-4 .bck-content {
-    padding: 20px 40px 20px 20px;
+    padding: 10px;
     background-color: #FFFAC2;
-    border-radius: 20px;
+    border-radius: 50px;
 }
 
 
