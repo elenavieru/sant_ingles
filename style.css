@@ -1733,14 +1733,14 @@ padding-top: 2px;
 
 /*caja 4 */
 
-.bck-box.bck-box-7 .bck-title:before {
+.bck-box.bck-box-4 .bck-title:before {
     content: " ";
     position: relative;
     padding: 20px;
     background-color: red;
 }
 
-.bck-box.bck-box-7 .bck-title {
+.bck-box.bck-box-4 .bck-title {
     padding: 10px;
 }
 
