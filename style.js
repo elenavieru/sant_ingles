@@ -40,6 +40,9 @@
 				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
 				{ name: 'Lista naranja', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
 				{ name: 'Lista roja', element: 'ol', attributes: { 'class': 'bck-ol-9' } },
+				{ name: 'Lista azul', element: 'ol', attributes: { 'class': 'bck-ol-11' } },
+				{ name: 'Lista morada', element: 'ol', attributes: { 'class': 'bck-ol-12' } },
+				{ name: 'Lista mas', element: 'ol', attributes: { 'class': 'bck-ol-13' } },
 				
 
 				{ name: 'Lista Desordenada defecto', element: 'ul', attributes: { 'class': 'bck-ul-6'} },
