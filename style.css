@@ -1148,7 +1148,7 @@ text-transform: uppercase;
     text-align: left;
 }
 
-/*lista morada*/
+/*lista mas*/
 #actividad .content .cke_contents .bck-ol-13,
 #actividad .content .texto_curso .bck-ol-13,
 #actividad .content .workspace ol li .bck-ol-13 {
@@ -1175,6 +1175,7 @@ text-transform: uppercase;
     margin-left: -34px;
     color: #1F90B5;
     font-size: 1.8rem;
+    margin-top: 0;
 }
 
 
@@ -1207,6 +1208,7 @@ text-transform: uppercase;
     margin-left: -34px;
     color: #AC208E;
     font-size: 1.8rem;
+    margin-top: 0;
 }
 
 
@@ -1239,6 +1241,7 @@ text-transform: uppercase;
     margin-left: -34px;
     color: #1F90B5;
     font-size: 1.8rem;
+    margin-top: 0;
 }
 
 
