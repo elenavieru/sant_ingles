@@ -1688,10 +1688,14 @@ padding-top: 2px;
     line-height: 2.1rem;
 }
 
-/*caja pop up textos*/
-.bck-tooltip, .bck-underline{
-    text-decoration: none;  
+
+/*tooltip*/
+
+
+.bck-tooltip {
+    cursor: pointer;
 }
+
 
 /*color cajas desplegables en linea*/
 #actividad .workspace.chooseblanks .inline-answer a {
