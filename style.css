@@ -1778,7 +1778,8 @@ padding-top: 2px;
 
 .bck-box.bck-box-1 .bck-content{
     border: 1px solid #333;
-    border-radius: 100%;
+    padding: 30px 30px;
+    border-radius: 40% 40% 40% 0%;
 }
 
 
