@@ -1774,6 +1774,13 @@ padding-top: 2px;
     padding: 10px 20px;
 }
 
+/*caja bocadillo*/
+
+.bck-box.bck-box-1 .bck-content{
+    border: 1px solid #333;
+    border-radius: 100%;
+}
+
 
 /*Caja work picture*/
 
