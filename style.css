@@ -1926,7 +1926,7 @@ padding-top: 2px;
 .bck-box.bck-box-3 .bck-title:before {
     content: " ";
     position: relative;
-    padding: 7%;
+    padding: 6%;
     top: -35px;
     background-image: url(imagenes_ingles/semaforo_saludo.png);
     background-repeat: no-repeat;
