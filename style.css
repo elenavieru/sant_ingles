@@ -2045,6 +2045,10 @@ background-image: url(imagenes_ingles/step_azulOscuro.png);
 .item-container .icon-8:before {
 background-image: url(imagenes_ingles/step_moradoClaro.png);
 }
+/*icono Step 9*/
+.item-container .icon-9:before {
+background-image: url(imagenes_ingles/step_9.jpg);
+}
 
 
 /*Math in daily*/
