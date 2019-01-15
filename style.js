@@ -87,6 +87,7 @@
 				{ name: 'Icono Step 1', element: 'span', attributes: { 'class': 'icon icon-1' } },
 				{ name: 'Icono Step 2', element: 'span', attributes: { 'class': 'icon icon-2' } },
 				{ name: 'Icono Step 3', element: 'span', attributes: { 'class': 'icon icon-3' } },
+				{ name: 'Icono Step3 Rojo', element: 'span', attributes: { 'class': 'icon icon-16' } },
 				{ name: 'Icono Step 4', element: 'span', attributes: { 'class': 'icon icon-4' } },
 				{ name: 'Icono Step 5', element: 'span', attributes: { 'class': 'icon icon-5' } },
 				{ name: 'Icono Step 6', element: 'span', attributes: { 'class': 'icon icon-6' } },
