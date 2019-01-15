@@ -2050,6 +2050,11 @@ background-image: url(imagenes_ingles/step_moradoClaro.png);
 .item-container .icon-15:before {
 background-image: url(imagenes_ingles/step_9.jpg);
 }
+/*icono Step 16*/
+.item-container .icon-16:before {
+background-image: url(imagenes_ingles/step_rojo.png);
+}
+
 
 
 /*Math in daily*/
