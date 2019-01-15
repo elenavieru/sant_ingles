@@ -1291,7 +1291,8 @@ text-transform: uppercase;
 #actividad .content .workspace ol li .bck-ol-4 li {
     position: relative;
     z-index: 0;
-    font-weight: 700;
+    color: #1A68B3;
+    font-family: HelveticaRoundedLTStd-Bd;
 }
 
 #actividad .content .cke_contents .bck-ol-4 li:before,
@@ -1308,14 +1309,14 @@ background: -o-linear-gradient(left, rgba(0,150,65,1) 0%, rgba(150,193,31,1) 80%
 background: -ms-linear-gradient(left, rgba(0,150,65,1) 0%, rgba(150,193,31,1) 80%, rgba(150,193,31,1) 100%);
 background: linear-gradient(to right, rgba(0,150,65,1) 0%, rgba(150,193,31,1) 80%, rgba(150,193,31,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009641', endColorstr='#96c11f', GradientType=1 );
-width: 29px;
+width: 28px;
 height: 28px;
 line-height: unset;
 text-align: center;
-margin-left: -35px;
+margin-left: -34px;
 color: #fff;
 padding-left: 1px;
-padding-top: 0px;
+padding-top: 3px;
 border-radius: 25px;
 }
 
